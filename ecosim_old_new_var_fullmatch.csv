@@ -1,0 +1,1181 @@
+Old_Variable_ID,Old_Variable_Name,Description,Best semantic macth new var,Next best semantic match new var,Best similarity match new vaar,Next best similarity match new vaar
+0,AllPlantRootH2OUptake_vr,Root water uptake,AllPlantRootH2OLoss_pvr,AllPlantRootH2OLoss_pvr,TPlantRootH2OUptake_col,AllPlantRootH2OLoss_pvr
+1,CO2NetFix_pft,Canopy net CO2 exchange (CO2NetFix_pft),CO2NetFix_pft,CO2NetFix_pft,CO2NetFix_pft,RootN2Fix_pft
+2,CanopyArea_pft,Canopy area (pft),CanopyHeight_pft,CanopyHeight_pft,CanopyLeafArea_pft,CanopyLeafAreaZ_pft
+3,CanopyBranchLeafA_pft,The 'branch leaf area',LeafAreaDying_brch,LeafAreaDying_brch,CanopyLeafArea_pft,CanopyLeafAreaZ_pft
+4,CanopyBranchStemApft_lyr,Stem layer area,StemAreaZsec_brch,StemAreaZsec_brch,CanopyStemArea_pft,CanopyStalkArea_lbrch
+5,CanopyLA_grd,CanopyLA_grd,LeafPARabsorpty_pft,LeafPARabsorpty_pft,LWRadCanopy_pft,LWRadCanG_col
+6,CanopyLAgrid_lyr,Total leaf area,CanopyLeafAareZ_col,CanopyLeafAareZ_col,LOGFldCapacity_vr,PDRAIN_col
+7,CanopyLeafA_pft,CanopyLeafA_pft,CanopyHeight_pft,CanopyHeight_pft,CanopyLeafArea_pft,CanopyLeafAreaZ_pft
+8,CanopyLeafApft_lyr,Canopy layer leaf area,CanopyLeafAreaZ_pft,CanopyLeafAreaZ_pft,CanopyLeafCLyr_pft,CanopyLeafArea_pft
+9,CanopyLeafCpft_lyr,Canopy layer leaf C (CanopyLeafCpft_lyr),CanopyLeafCLyr_pft,CanopyLeafCLyr_pft,CanopyLeafCLyr_pft,FracLeafProtinAsPEPCarboxyl_pft
+10,CanopyLeafShethC_pft,CanopyLeafShethC_pft,CanopyHeight_pft,CanopyHeight_pft,CanopyLeafShethC_pft,FracCanopyHeightCut_pft
+11,CanopyNonstructElementConc_pft,Canopy nonstructural element concentration,CanopyNonstElmConc_pft,CanopyNonstElmConc_pft,CanopyNonstElmConc_pft,NoduleNonstructCconc_pft
+12,CanopyNonstructElements_pft,A canopy nonstructural element,CanopyNonstElms_pft,CanopyNonstElms_pft,CanopyNonstElms_pft,CanopyNonstElmConc_pft
+13,CanopyPARabsorpty_pft,Canopy PAR absorptivity,LeafPARabsorpty_pft,LeafPARabsorpty_pft,RadPARbyCanopy_pft,CanopyPARalbedo_pft
+14,CanopyPARalbedo_pft,Canopy PAR albedo (Photosynthetically Active Radiation albedo) of a specific plant functional type (pft) in Earth system modeling,CanopyPARalbedo_pft,CanopyPARalbedo_pft,CanopyPARalbedo_pft,RadPARbyCanopy_pft
+15,CanopySWAlbedo_pft,Canopy shortwave albedo,RadSWLeafAlbedo_pft,RadSWLeafAlbedo_pft,CanopyPARalbedo_pft,WatHeldOnCanopy_pft
+16,CanopySWabsorpty_pft,Canopy shortwave absorptivity,LeafSWabsorpty_pft,LeafSWabsorpty_pft,RadSWbyCanopy_pft,HeatStorCanopy_pft
+17,CanopyStemA_lyr,The term 'total stem area',CanopyStemAareZ_col,CanopyStemAareZ_col,CanopyStemAareZ_col,CanopyWaterMassEnd_col
+18,CanopyStemApft_lyr,Plant canopy layer stem area,CanopyStemAreaZ_pft,CanopyStemAreaZ_pft,CanopyStemArea_pft,CanopyStemAreaZ_pft
+19,GridPlantRootH2OUptake_vr,Total root water uptake,AllPlantRootH2OLoss_pvr,AllPlantRootH2OLoss_pvr,TWaterPlantRoot2SoilPrev_vr,RH2PO4UptkSoilAutor_vr
+20,HourCounter4LeafOut_brch,A parameter that,FracHour4LeafoffRemob,FracHour4LeafoffRemob,HourReq4LeafOut_brch,Hours4Leafout_brch
+21,LeafAUnshaded_seclyrnodbrpft,The leaf irradiated surface area,LeafAUnshaded_zsec,LeafAUnshaded_zsec,RadSWLeafAlbedo_pft,LeafAUnshaded_zsec
+22,LeafA_lyrnodbrchpft,Leaf surface area,LeafAreaZsec_brch,LeafAreaZsec_brch,doPlantLeaveOff_brch,doPlantLeafOut_brch
+23,LitrfalChemElemnts_vr,Total litterfall C,LitrfalStrutElms_vr,LitrfalStrutElms_vr,LeafStrutElms_brch,trcSalt_RGeoChem_flx_vr
+24,NoduleNonstructCconc_pft,Nodule nonstructural C (carbon),NoduleNonstructCconc_pft,NoduleNonstructCconc_pft,NoduleNonstructCconc_pft,CanopyNonstElmConc_pft
+25,PopPlantRootC_vr,Root layer C,PopuRootMycoC_pvr,PopuRootMycoC_pvr,RootBiomCPerPlant_pft,RootProteinC_pvr
+26,RootNonstructElementConcpft_vr,Root layer nonstructural element concentration,RootNonstructElmConc_rpvr,RootNonstructElmConc_rpvr,RootNonstructElmConc_rpvr,rCNNonstRemob_pft
+27,RootProteinConc_pftvr,Root layer protein C concentration,RootProteinConc_rpvr,RootProteinConc_rpvr,RootProteinConc_rpvr,RootProteinC_pvr
+28,StemA_lyrnodbrchpft,Stem surface area,StemAreaZsec_brch,StemAreaZsec_brch,CanopyNodulStrutElms_brch,TotalNodeNumNormByMatgrp_brch
+29,THIN_pft,Thinning of plant population,THIN_pft,THIN_pft,THIN_pft,doInitPlant_pft
+30,TRootGasLoss_disturb,The parameter 'total root gas content',TRootGasLossDisturb_col,TRootGasLossDisturb_col,RootGasLossDisturb_pft,TRootGasLossDisturb_col
+31,trcSalt_RFLU,Aqueous PO4 in underground irrigation non-band,CH0PQ,CH0PQ,LitrfalStrutElms_CumYr_pft,SurfLitrfalStrutElms_CumYr_pft
+32,trcSalt_TR,Total salt solute transformation non-band,trcSalt_RGeoChem_flx_vr,trcSalt_RGeoChem_flx_vr,trcSalt_TransptMicP_3D,trcSalt_TransptMacP_3D
+33,trcSalt_XFXS,Total salt micropore-macropore transfer,trcs_Mac2MicPore_flx_vr,trcs_Mac2MicPore_flx_vr,trcSalt_SnowDrift_flx_col,StomatalStress_pft
+34,trcSalt_XQR,Total Al in runoff,trcSalt_FloXSurRunoff_2D,trcSalt_FloXSurRunoff_2D,CSTRQ,trcSalt_ml_snvr
+35,trcSalt_XQS,The term 'total salt in snow drift',trcSalt_FloXSnow_2DH,trcSalt_FloXSnow_2DH,CSTRQ,StalkStrutElms_brch
+36,trcSalt_solml,Soil aqueous salt content microre,trcSalt_solml_vr,trcSalt_solml_vr,trcSalt_solml_vr,LitrFallStrutElms_col
+37,trcg_RDFA,Dissolution (+ve) - volatilization (-ve) gas flux in roots,trcg_Root_gas2aqu_flx_vr,trcg_Root_gas2aqu_flx_vr,FracSWRad2Grnd_col,Ar_Gas_frac_vr
+38,trcg_RFLA,Gaseous tracer flux through roots,trcg_air2root_flx_pvr,trcg_air2root_flx_pvr,trcg_gascl_vr,trcg_air2root_flx_vr
+39,trcg_TFLA,Total internal root gas flux,trcg_air2root_flx_vr,trcg_air2root_flx_vr,GrainFillRate25C_pft,TCGroth_pft
+40,trcg_TLP,Total root internal gas flux,trcg_root_vr,trcg_root_vr,TCGroth_pft,trcp_saltpml_vr
+41,trcg_XBLL,CO2 bubbling,trcg_ebu_flx_vr,trcg_ebu_flx_vr,trcg_ebu_flx_col,trcg_ebu_flx_vr
+42,trcg_XDFR,Soil surface gas dissolution-volatilization,trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,FRTX,FXRT
+43,trcg_XRS,Surface runoff gas flux,trcg_FloXSurRunoff_2D,trcg_FloXSurRunoff_2D,trcs_Irrig_flx_vr,trcg_gascl_vr
+44,trcn_XRS,Surface runoff nutrient flux,trcn_FloXSurRunoff_2D,trcn_FloXSurRunoff_2D,trcx_TRSoilChem_vr,RCCXR
+45,trcn_irrig,Subsurface irrigation nutrient concentration,trcn_irrig_vr,trcn_irrig_vr,trcn_irrig_vr,RRIG
+46,trcp_ER,Total adsorbed ALOH3 erosion,trcp_Eros_2D,trcp_Eros_2D,rPCReserve_pft,rPCEar_pft
+47,trcp_TR,The term 'total precipitated P containing transformation non-band',trcp_RChem_soil_vr,trcp_RChem_soil_vr,TDPRC,CPRTS_pft
+48,trcs_RFLU,Aqueous non-salt solutes in underground irrigation,trcs_Irrig_flx_vr,trcs_Irrig_flx_vr,SurfLitrfalStrutElms_CumYr_pft,FracSurfByLitR_col
+49,trcs_XFXS,Total non-salt solute micropore-macropore transfer,trcs_Mac2MicPore_flx_vr,trcs_Mac2MicPore_flx_vr,trcs_SubsurTransp_flx_2DH,ZSTX
+50,trcx_TR,Total adsorbed OH- transformation non-band,trcx_TRSoilChem_vr,trcx_TRSoilChem_vr,trcx_TRSoilChem_vr,FRTX
+51,trcx_XER,Total adsorbed sediment erosion non-band,trcx_Eros_2D,trcx_Eros_2D,RCCXR,trcx_Eros_2D
+52,AKSGL,Aqueous K diffusivity,AKSG,AKSG,ALSG,AKSG
+53,ALSGL,Aqueous Al diffusivity,ALSG,ALSG,ALSG,Litrfall_lnds
+54,ALT,The altitude of a grid cell,ALT_col,ALT_col,ALAT_col,ALT_col
+55,ALTI,The altitude of a landscape,ALTIG,ALTIG,ALTIG,ALTI_col
+56,ALTZ,Altitude,ALTZ_col,ALTZ_col,ALTZ_col,ALAT_col
+57,ANGBR,Branching angle,BranchAngle_pft,BranchAngle_pft,BranchAngle_pft,BranchNumber_brch
+58,ANGSH,The sheath angle,PetioleAngle_pft,PetioleAngle_pft,ANSG,XPhaseChangeHeatL_snvr
+59,ANSGL,Aqueous Na diffusivity,ANSG,ANSG,ALSG,ANSG
+60,ARLF,Leaf area,LeafNodeArea_brch,LeafNodeArea_brch,FIRRA_col,LeafIntracellularCO2_pft
+61,ARLFX,Total canopy leaf area,CanopyLeafArea_pft,CanopyLeafArea_pft,XFRX,FIRRA_col
+62,ARLFZ,Branch leaf area,LeafAreaDying_brch,LeafAreaDying_brch,FIRRA_col,LeafIntracellularCO2_pft
+63,ARSTX,Total canopy stem area,StemArea_col,StemArea_col,SARX,Root1stMaxRadius_pft
+64,ASP,Aspect,ASP_col,ASP_col,SPCAS,SPALP
+65,ATCA,The mean annual air temperature,ATCA_col,ATCA_col,ATCA_col,ATCAI_col
+66,ATCAI,The initial mean annual air temperature,ATCAI_col,ATCAI_col,ATCAI_col,CanPCi2CaRatio
+67,ATCS,Mean annual soil temperature,ATCS_col,ATCS_col,ATCS_col,trcSalt_TransptMacP_3D
+68,ATKS,Mean annual soil temperature,ATCS_col,ATCS_col,StalkMassDensity,StomatalStress_pft
+69,ActiveLayDepth,Active layer depth,Root1stDepz_pft,Root1stDepz_pft,EvapLHTC,ActiveLayDepZ_col
+70,AveSecndRootLen,The term 'root layer average length',Root2ndMeanLens_pvr,Root2ndMeanLens_pvr,PetoleLensNode_brch,Eco_NetRad_col
+71,BALE,Plant element balance,ElmBalanceCum_pft,ElmBalanceCum_pft,LeafAreaLive_brch,LeafElmsByLayerNode_brch
+72,BiomGrowthYieldRoot,Root growth yield,RootBiomGrosYld_pft,RootBiomGrosYld_pft,RootBiomGrosYld_pft,EarBiomGrowthYld_pft
+73,BndlResistAboveCanG,Isothermal boundary layer resistance,AbvCanopyBndlResist_col,AbvCanopyBndlResist_col,AbvCanopyBndlResist_col,NodeNumberAtAnthesis_brch
+74,BndlResistCanG,Canopy boundary layer resistance,CanopyBndlResist_col,CanopyBndlResist_col,StandingDeadStrutElms_col,SineBranchAngle_pft
+75,C3SGL,Aqueous CO3 diffusivity,C3SG,C3SG,CLSG,C3SG
+76,CAL,Soil Al content,CAL_vr,CAL_vr,tCanLeafC_cl,ALAT_col
+77,CAL1Q,Surface irrigation AlOH concentration,CAL1Q,CAL1Q,CAL1Q,CALQ
+78,CAL1R,Precipitation AlOH concentration,CAL2Q,CAL2Q,CAL1Q,CAL_vr
+79,CAL1U,Subsurface irrigation AlOH concentration,CAL1Q,CAL1Q,CAL1Q,tCanLeafC_cl
+80,CAL2Q,Surface irrigation AlOH2 concentration,CAL2Q,CAL2Q,CAL2Q,CALQ
+81,CAL2R,Precipitation AlOH2 concentration,CAL2Q,CAL2Q,CAL2Q,CAL_vr
+82,CAL2U,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,CAL2Q,LeafIntracellularCO2_pft
+83,CAL3Q,Surface irrigation AlOH3 concentration,CAL3Q,CAL3Q,CAL3Q,CALQ
+84,CAL3R,Precipitation AlOH3 concentration,CALOH_vr,CALOH_vr,CAL3Q,CAL_vr
+85,CAL3U,Subsurface irrigation AlOH3 concentration,CAL3Q,CAL3Q,CAL3Q,tCanLeafC_cl
+86,CAL4Q,Surface irrigation AlOH4 concentration,CAL4Q,CAL4Q,CAL4Q,CALQ
+87,CAL4R,Precipitation AlOH4 concentration,CAL4Q,CAL4Q,CAL4Q,CAL_vr
+88,CAL4U,Subsurface irrigation AlOH4 concentration,CAL4Q,CAL4Q,CAL4Q,tCanLeafC_cl
+89,CALOH,The term 'soil AlOH3 content',CALOH_vr,CALOH_vr,CALOH_vr,ALAT_col
+90,CALPO,Soil AlPO4 content,CALPO_vr,CALPO_vr,ASP_col,VPA_col
+91,CALQ,Surface irrigation Al concentration,CALQ,CALQ,CALQ,CAL1Q
+92,CALR,Precipitation Al (aluminum) concentration,CAL_vr,CAL_vr,CAL_vr,CIRRA_col
+93,CALSQ,Surface irrigation AlSO4 concentration,CALSQ,CALSQ,CALSQ,CALQ
+94,CALSR,Precipitation AlSO4 concentration,NH4_rain_mole_conc,NH4_rain_mole_conc,ARSL,SoilFracAsMacP_vr
+95,CALSU,Subsurface irrigation AlSO4 concentration,CALSQ,CALSQ,CALSQ,VLWatHeldCapSurf_col
+96,CALU,Subsurface irrigation Fe concentration,CFEQ,CFEQ,tCanLeafC_cl,ALAT_col
+97,CARBN,Total gross CO2 fixation,GrossCO2Fix_pft,GrossCO2Fix_pft,BranchNumber_brch,CNA_vr
+98,CASGL,Aqueous Ca diffusivity,CASG,CASG,CLSG,ALSG
+99,CBXN,Carboxylation efficiency,RubiscoCarboxyEff_node,RubiscoCarboxyEff_node,CCNGB,RCCXN
+100,CBXN4,C4 carboxylation efficiency,C4CarboxyEff_node,C4CarboxyEff_node,CCNGB,RCCXN
+101,CC0PQ,The surface irrigation CaPO4 concentration,CC0PQ,CC0PQ,CC0PQ,CC1PQ
+102,CC0PR,Precipitation CaPO4 concentration,HPO4_rain_mole_conc_col,HPO4_rain_mole_conc_col,CC0PQ,RC0_col
+103,CC0PU,Subsurface irrigation CaPO4 concentration,CC0PQ,CC0PQ,CC0PQ,CCOU
+104,CC1PQ,Surface irrigation,IrrigSurface_col,IrrigSurface_col,CC1PQ,CC0PQ
+105,CC1PR,Precipitation CaHPO4 concentration,HPO4_rain_mole_conc_col,HPO4_rain_mole_conc_col,CC1PQ,rPCOMC
+106,CC1PU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,CC1PQ,CCOU
+107,CC2PQ,Surface irrigation CaH2PO4 concentration,CC2PQ,CC2PQ,CC2PQ,CC0PQ
+108,CC2PR,Precipitation CaH2PO4 concentration,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,CC2PQ,rPCOMC
+109,CC2PU,Subsurface irrigation CaH2PO4 concentration,CC2PQ,CC2PQ,CC2PQ,CCOU
+110,CC3Q,Surface irrigation CO3 concentration,CC3Q,CC3Q,CC3Q,CCACQ
+111,CC3R,Precipitation CO3 concentration,CC3Q,CC3Q,RCCX,RCCQ
+112,CC3U,Subsurface irrigation HCO3 concentration,CHCQ,CHCQ,CCOU,CCHU
+113,CCA,Soil Ca content,CCA_vr,CCA_vr,CCACQ,CCAQ
+114,CCACO,Soil CaCO3 content,CCACO_vr,CCACO_vr,CCACO_vr,CCAOQ
+115,CCACQ,Surface irrigation CaCO3 concentration,CCACQ,CCACQ,CCACQ,CCAQ
+116,CCACR,Precipitation CaCO3 concentration,CCACO_vr,CCACO_vr,CCACO_vr,CCA_vr
+117,CCACU,Subsurface irrigation CaCO3 concentration,CCACQ,CCACQ,CCACQ,CCOU
+118,CCAHQ,Surface irrigation CaHCO3 concentration,CCAHQ,CCAHQ,CCAHQ,CCAQ
+119,CCAHR,Precipitation CaHCO3 concentration,CCAHQ,CCAHQ,CCAPH_vr,CCAHQ
+120,CCAHU,Subsurface irrigation CaHCO3 concentration,CCAHQ,CCAHQ,CCHU,CCAHQ
+121,CCAOQ,Surface irrigation CaOH concentration,CCAOQ,CCAOQ,CCAOQ,CCAQ
+122,CCAOR,Precipitation CaOH concentration,CRAIN_lnd,CRAIN_lnd,CCACO_vr,CCASO_vr
+123,CCAOU,Subsurface irrigation CaOH concentration,CCAOQ,CCAOQ,CCOU,CCAOQ
+124,CCAPD,Soil CaHPO4 content,CCAPD_vr,CCAPD_vr,DPCAC,CCAPD_vr
+125,CCAPH,Soil apatite content,CCAPH_vr,CCAPH_vr,CCAPH_vr,SPCAC
+126,CCAQ,Surface irrigation Ca concentration,CCAQ,CCAQ,CCAQ,CCACQ
+127,CCAR,The term 'precipitation Ca concentration',CCAMX,CCAMX,CCA_vr,CCACO_vr
+128,CCASO,Soil CaSO4 content,CCASO_vr,CCASO_vr,ATCS_col,CCASO_vr
+129,CCASQ,Surface irrigation CaSO4 concentration,CCASQ,CCASQ,CCASQ,CCAQ
+130,CCASR,Precipitation CaSO4 concentration,HPO4_rain_mole_conc_col,HPO4_rain_mole_conc_col,CCASO_vr,SPCAC
+131,CCASU,Subsurface irrigation CaSO4 concentration,CCASQ,CCASQ,SPCAC,CCASQ
+132,CCAU,Subsurface irrigation Mg concentration,CMGQ,CMGQ,CCACQ,CCOU
+133,CCHQ,Surface irrigation CH4 concentration,CCHU,CCHU,CHCQ,CCAHQ
+134,CCHR,Precipitation CH4 concentration,CH4E_col,CH4E_col,RCCX,RCCQ
+135,CCL,Soil Cl content,CCL_vr,CCL_vr,CCLQ,CCL_vr
+136,CCLQ,Surface irrigation Cl concentration,CCLQ,CCLQ,CCLQ,CCACQ
+137,CCLR,Precipitation Cl concentration,CRAIN_lnd,CRAIN_lnd,CCL_vr,RC0_col
+138,CCLU,Subsurface irrigation CO3 concentration,CC3Q,CC3Q,CCOU,CCHU
+139,CCO2EI,The initial atmospheric CO2 concentration,CCO2EI_col,CCO2EI_col,CCO2EI_col,CO2EI_col
+140,CCOQ,Surface irrigation CO2 concentration,CCOU,CCOU,CCAOQ,CCACQ
+141,CCOR,Precipitation CO2 concentration,CO2E_col,CO2E_col,CCACO_vr,RC0_col
+142,CEPOLB,Branch nonstructural C concentration,LeafPetoNonstElmConc_brch,LeafPetoNonstElmConc_brch,SLOPE_col,PBOT_col
+143,CER,Soil detachment/deposition,CER_col,CER_col,CEC_vr,CER_col
+144,CF1PQ,Surface irrigation FeHPO4 concentration,CF1PQ,CF1PQ,CF1PQ,CC1PQ
+145,CF1PR,Precipitation FeHPO4 concentration,CF1PQ,CF1PQ,CF1PQ,CPGR_pft
+146,CF1PU,Subsurface irrigation FeHPO4 concentration,CF1PQ,CF1PQ,CF1PQ,SPF1P1
+147,CF2PQ,Surface irrigation FeH2PO4 concentration,CF2PQ,CF2PQ,CF2PQ,CC2PQ
+148,CF2PR,Precipitation FeH2PO4 concentration,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,CF2PQ,CPGR_pft
+149,CF2PU,Subsurface irrigation FeH2PO4 concentration,CF2PQ,CF2PQ,CF2PQ,SPF2P2
+150,CFE,Soil Fe content,CFE_vr,CFE_vr,CFEQ,CFE1Q
+151,CFE1Q,Surface irrigation FeOH concentration,CFE1Q,CFE1Q,CFE1Q,CFEQ
+152,CFE1R,Precipitation FeOH concentration,CFE4Q,CFE4Q,CFE1Q,CFE_vr
+153,CFE1U,Subsurface irrigation FeOH concentration,CFE1Q,CFE1Q,CFE1Q,CFEQ
+154,CFE2Q,Surface irrigation FeOH2 concentration,CFE2Q,CFE2Q,CFE2Q,CFEQ
+155,CFE2R,Precipitation FeOH2 concentration,CFE2Q,CFE2Q,CFE2Q,CFE_vr
+156,CFE2U,Subsurface irrigation FeOH2 concentration,CFE2Q,CFE2Q,CFE2Q,EN2F
+157,CFE3Q,Surface irrigation FeOH3 concentration,CFE3Q,CFE3Q,CFE3Q,CFEQ
+158,CFE3R,Precipitation FeOH3 concentration,CFEOH_vr,CFEOH_vr,CFE3Q,CFE_vr
+159,CFE3U,Subsurface irrigation FeOH3 concentration,CFE3Q,CFE3Q,CFE3Q,ELEC3
+160,CFE4Q,Surface irrigation FeOH4 concentration,CFE4Q,CFE4Q,CFE4Q,CFEQ
+161,CFE4R,Precipitation FeOH4 concentration,CFE4Q,CFE4Q,CFE4Q,FrcAsCH4byFire
+162,CFE4U,Subsurface irrigation FeOH4 concentration,CFE4Q,CFE4Q,CFE4Q,ELEC4
+163,CFEOH,Soil FeOH3 content,CFEOH_vr,CFEOH_vr,ECHO,CFEOH_vr
+164,CFEPO,Soil FePO4 content,CFEPO_vr,CFEPO_vr,CPOFC,CFEPO_vr
+165,CFEQ,Surface irrigation Fe concentration,CFEQ,CFEQ,CFEQ,CFE1Q
+166,CFER,Precipitation Fe concentration,CFE_vr,CFE_vr,CFE_vr,FracSurfSnoFree_col
+167,CFESQ,Surface irrigation FeSO4 concentration,CFESQ,CFESQ,CFESQ,CFEQ
+168,CFESR,Precipitation FeSO4 concentration,CFESQ,CFESQ,FracSurfSnoFree_col,RechargWestSurf_col
+169,CFESU,Subsurface irrigation FeSO4 concentration,CFESQ,CFESQ,CFESQ,FracSurfSnoFree_col
+170,CFEU,Subsurface irrigation H concentration,CHYQ,CHYQ,CFEQ,CFE1Q
+171,CFOPE,The litter kinetic fraction,ElmAllocmat4Litr,ElmAllocmat4Litr,CPOFC,CFEPO_vr
+172,CH0PQ,The term 'surface irrigation PO4 concentration',CH0PQ,CH0PQ,CH0PQ,CC0PQ
+173,CH0PR,Precipitation PO4 concentration,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,CPRH,CH0PQ
+174,CH0PU,Subsurface irrigation PO4 concentration,CH0PQ,CH0PQ,CH0PQ,CCHU
+175,CH1PQ,Surface irrigation HPO4 concentration,HPO4_irrig_mole_conc,HPO4_irrig_mole_conc,CC1PQ,CH0PQ
+176,CH1PR,Precipitation HPO4 concentration,HPO4_rain_mole_conc_col,HPO4_rain_mole_conc_col,CPRH,CCAPH_vr
+177,CH3PQ,The term 'surface irrigation H3PO4 concentration',CH3PQ,CH3PQ,CH3PQ,CH0PQ
+178,CH3PR,Precipitation H3PO4 concentration,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,CPRH,CH3PQ
+179,CH3PU,Subsurface irrigation H3PO4 concentration,CH3PQ,CH3PQ,CH3PQ,CCHU
+180,CH4E,Atmospheric CH4 concentration,CH4E_col,CH4E_col,CH4E_col,ECO_HR_CH4_col
+181,CHCQ,Surface irrigation HCO3 concentration,CHCQ,CHCQ,CHCQ,CCAHQ
+182,CHCR,Precipitation HCO3 concentration,CHCQ,CHCQ,RCCX,RCCQ
+183,CHCU,Subsurface irrigation CH4 concentration,CCHU,CCHU,CCHU,CCOU
+184,CHILL,Chilling effect on CO2 fixation,ChillHours_pft,ChillHours_pft,ITILL1_col,NLI_col
+185,CHL,Leaf C3 chlorophyll content,LeafC3ChlorofilConc_pft,LeafC3ChlorofilConc_pft,DH_col,CH4E_col
+186,CHL4,The term 'leaf C4 chlorophyll content',LeafC4ChlorofilConc_pft,LeafC4ChlorofilConc_pft,CH4E_col,ECO_HR_CH4_col
+187,CHYQ,Surface irrigation H concentration,CHYQ,CHYQ,CHYQ,CHCQ
+188,CHYR,Precipitation H concentration,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,RCCYR,RCCY
+189,CHYU,Subsurface irrigation Ca concentration,CCAQ,CCAQ,CCHU,CHYQ
+190,CION,Solution ion concentration,SolutesIonStrenth_vr,SolutesIonStrenth_vr,PICON,CNORI_col
+191,CIRRA,The fraction of FC (Field Capacity) - WP (Wilting Point) to which automatic irrigation,CIRRA_col,CIRRA_col,IIRRA,CIRRA_col
+192,CKA,Soil K content,CKA_vr,CKA_vr,CKAQ,CKASQ
+193,CKAQ,Surface irrigation K concentration,CKAQ,CKAQ,CKAQ,CKASQ
+194,CKAR,The term 'precipitation K concentration',pH_rain_col,pH_rain_col,CKA_vr,GKCA_vr
+195,CKASQ,Surface irrigation K concentration,CKAQ,CKAQ,CKASQ,CKAQ
+196,CKASR,Precipitation K concentration,CKASQ,CKASQ,CKASQ,RGASC
+197,CKASU,Subsurface irrigation K concentration,CKASQ,CKASQ,CKASQ,SPCAC
+198,CKAU,Subsurface irrigation OH concentration,COHQ,COHQ,CKAQ,CKASQ
+199,CLASS,Fraction of leaves in different angle classes,LeafAngleClass_pft,LeafAngleClass_pft,trcSalt_snowMassloss_col,SPCAS
+200,CLSXL,Aqueous Cl diffusivity,CLSX,CLSX,CLSX,SL_col
+201,CM1PQ,The term 'surface irrigation MgHPO4 concentration',CM1PQ,CM1PQ,CM1PQ,CC1PQ
+202,CM1PR,Precipitation MgHPO4 concentration,CM1PQ,CM1PQ,CM1PQ,rPCOMC
+203,CM1PU,Subsurface irrigation MgHPO4 concentration,CM1PQ,CM1PQ,CM1PQ,DPC1P
+204,CMG,Soil Mg content,CMG_vr,CMG_vr,CMGCQ,CMGQ
+205,CMGCQ,The surface irrigation MgCO3 concentration,CMGCQ,CMGCQ,CMGCQ,CMGQ
+206,CMGCR,Precipitation MgCO3 concentration,CMGCQ,CMGCQ,CCNGR,CMGCQ
+207,CMGCU,Subsurface irrigation MgCO3 concentration,CMGCQ,CMGCQ,CMGCQ,CCOU
+208,CMGHQ,Surface irrigation MgHCO3 concentration,CMGHQ,CMGHQ,CMGHQ,CMGQ
+209,CMGHR,Precipitation MgHCO3 concentration,CMGHQ,CMGHQ,CMGHQ,CMG_vr
+210,CMGHU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,CMGHQ,CCHU
+211,CMGOQ,Surface irrigation MgOH concentration,CMGOQ,CMGOQ,CMGOQ,CMGQ
+212,CMGOR,Precipitation MgOH concentration,CMGOQ,CMGOQ,OMGR,trcg_irrig_mole_conc_col
+213,CMGOU,Subsurface irrigation MgOH concentration,CMGOQ,CMGOQ,CMGOQ,tHumOM_col
+214,CMGQ,Surface irrigation Mg concentration,CMGQ,CMGQ,CMGQ,CMGCQ
+215,CMGR,Precipitation Mg concentration,CMG_vr,CMG_vr,CMG_vr,GKCM_vr
+216,CMGSQ,Surface irrigation MgSO4 concentration,CMGSQ,CMGSQ,CMGSQ,CQSG
+217,CMGSR,Precipitation MgSO4 concentration,CMGSQ,CMGSQ,trcg_mass_cumerr_col,trcg_gasml_vr
+218,CMGSU,Subsurface irrigation MgSO4 concentration,CMGSQ,CMGSQ,CMGSQ,CGSG
+219,CMGU,Subsurface irrigation Na concentration,CNAQ,CNAQ,CMGCQ,CMGQ
+220,CN2Q,Surface irrigation N2O concentration,CN2U,CN2U,RCCQN,CNACQ
+221,CN2R,Precipitation N2O concentration,Z2OE_col,Z2OE_col,CCNGR,RCCZN
+222,CN3,CN3,NH3Dep2Can_pft,NH3Dep2Can_pft,CNMN,CNNU
+223,CN3Q,Surface irrigation NH3 concentration,NH4_irrig_mole_conc,NH4_irrig_mole_conc,CC3Q,RCCQN
+224,CN3R,Precipitation NH3 concentration,NH4_rain_mole_conc,NH4_rain_mole_conc,CNO3_vr,CCNGR
+225,CN4,CN4,NetNH4Mineralize_CumYr_col,NetNH4Mineralize_CumYr_col,DCN4R,TDCN4
+226,CN4Q,Surface irrigation NH4 concentration,NH4_irrig_mole_conc,NH4_irrig_mole_conc,RCCQN,CNACQ
+227,CN4R,Precipitation NH4 concentration,NH4_rain_mole_conc,NH4_rain_mole_conc,DCN4R,CNH4_vr
+228,CN4RI,Precipitation initial NH4 concentration,CN4RI_col,CN4RI_col,CN4RI_col,DCN4R
+229,CNA,Soil Na content,CNA_vr,CNA_vr,CNACQ,CNAQ
+230,CNACQ,Surface irrigation NaCO3 concentration,CNACQ,CNACQ,CNACQ,CNAQ
+231,CNACR,Precipitation NaCO3 concentration,CNACQ,CNACQ,CCNGR,RCCZN
+232,CNACU,Subsurface irrigation NaCO3 concentration,CNACQ,CNACQ,CNACQ,CCACQ
+233,CNAQ,Surface irrigation Na concentration,CNAQ,CNAQ,CNAQ,CNACQ
+234,CNAR,Precipitation Na concentration,CNA_vr,CNA_vr,CNA_vr,iPlantCalendar_brch
+235,CNASQ,Surface irrigation NaSO4 concentration,CNASQ,CNASQ,CNASQ,CNAQ
+236,CNASR,Precipitation NaSO4 concentration,CNASQ,CNASQ,CSAND_vr,CNASQ
+237,CNASU,Subsurface irrigation NaSO4 concentration,CNASQ,CNASQ,CNASQ,CNNU
+238,CNAU,Subsurface irrigation K concentration,CKASQ,CKASQ,CNNU,CNACQ
+239,CNEAR,The Earth Nitrogen-to-Carbon (N:C) ratio,NodulerNC_pft,NodulerNC_pft,LeafNodeArea_brch,rNCEar_pft
+240,CNETX,Total net canopy CO2 exchange,NetCO2Flx2Canopy_col,NetCO2Flx2Canopy_col,NutrientCtrlonC4Carboxy_node,NoduleNonstructCconc_pft
+241,CNGR,The grain N:C ratio,CNGR_pft,CNGR_pft,CCNGR,GKCN_vr
+242,CNH4,Soil NH4 content,CNH4_vr,CNH4_vr,CNH4_vr,tNH4_col
+243,CNHSK,Husk N:C ratio,rNCHusk_pft,rNCHusk_pft,BandThicknessNH4_vr,SnowThickL_snvr
+244,CNLF,"The maximum leaf nitrogen to carbon ratio, often represented as CNLF,",CNLF_pft,CNLF_pft,CNLF_pft,tCanLeafC_cl
+245,CNND,,ASP_col,ASP_col,CNMN,CNNU
+246,CNNQ,Surface irrigation N2 concentration,CNNU,CNNU,CNMN,CNNU
+247,CNNR,Precipitation N2 concentration,NO3_rain_mole_conc,NO3_rain_mole_conc,CNMN,CNNU
+248,CNO,CNO,PICON,PICON,CNOFC,ECNO
+249,CNO3,Soil NO3 Content measures the amount of nitrate (NO3) in the soil. Nitrate,CNO3_vr,CNO3_vr,NO3_rain_mole_conc,tNO3_col
+250,CNOQ,Surface irrigation NO3 concentration,NO3_irrig_mole_conc,NO3_irrig_mole_conc,RCCQN,CCAOQ
+251,CNOR,Precipitation NO3 concentration,NO3_rain_mole_conc,NO3_rain_mole_conc,DCNOR,rNCOMC
+252,CNORI,Precipitation initial NO3 concentration,CNORI_col,CNORI_col,CNORI_col,NO3_irrig_mole_conc
+253,CNRSV,,ASP_col,ASP_col,CNOSC_vr,trcs_VLN_vr
+254,CNRT,,ASP_col,ASP_col,NutrientCtrlonC4Carboxy_node,RootNonstructElmConc_rpvr
+255,CNRTS,Root N:C ratio x root growth yield (CNRTS),CNRTS_pft,CNRTS_pft,CNRTS_pft,TCSnow_snvr
+256,CNSHE,,ASP_col,ASP_col,ECNH,doSenescence_brch
+257,CNSTK,,ASP_col,ASP_col,rNCStalk_pft,SnowThickL_snvr
+258,CNWS,C:N ratio in remobilizable nonstructural biomass (CNWS),rCNNonstRemob_pft,rCNNonstRemob_pft,TCSnow_snvr,NewSnowDens_col
+259,CNZU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,CNNU,RCCZN
+260,CO2B,The bundle sheath nonstructural C3 content in C4 photosynthesis,CMassCO2BundleSheath_node,CMassCO2BundleSheath_node,CO2E_col,ECO_HR_CO2_col
+261,CO2E,Atmospheric CO2 concentration,CO2E_col,CO2E_col,CO2E_col,CO2EI_col
+262,CO2EI,,ASP_col,ASP_col,CO2EI_col,CCO2EI_col
+263,CO2I,,ASP_col,ASP_col,CO2KI,CO2EI_col
+264,CO2L,,ASP_col,ASP_col,CO2E_col,CO2EI_col
+265,CO2Q,"Canopy gaseous CO2 concentration, represented as CO2Q,",CanopyGasCO2_pft,CanopyGasCO2_pft,CCAOQ,CC2PQ
+266,COA,COA,PICON,PICON,CCAOQ,ATCA_col
+267,COAU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,CCOU,Eco_AutoR_CumYr_col
+268,COC,COC (Carbon Organic Compound),TSolidOMC_vr,TSolidOMC_vr,CCOU,CCACO_vr
+269,COCU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,CCOU,CCHU
+270,COHQ,Surface irrigation OH concentration,COHQ,COHQ,COHQ,COOH
+271,COHR,Precipitation OH concentration,NO3_rain_mole_conc,NO3_rain_mole_conc,ECO_HR_CO2_vr,ECO_HR_CH4_vr
+272,COHU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,COOH,CCOU
+273,COMPL,CO2 compensation point (COMPL),CO2CompenPoint_node,CO2CompenPoint_node,Eco_GPP_CumYr_col,Eco_NPP_CumYr_col
+274,CON,,ASP_col,ASP_col,CNOFC,ECNO
+275,CONU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,NU_col,UION_col
+276,COPU,Subsurface irrigation,IrrigSurface_col,IrrigSurface_col,cpo,Eco_GPP_CumYr_col
+277,COQA,,ASP_col,ASP_col,CCAOQ,CCAQ
+278,COQC,,ASP_col,ASP_col,CCAOQ,CCACQ
+279,COXQ,Surface irrigation,IrrigSurface_col,IrrigSurface_col,CCAOQ,COXU
+280,COXR,Precipitation O2 concentration,OXYE_col,OXYE_col,RCCXR,ORGCX_vr
+281,CPEAR,,ASP_col,ASP_col,rPCEar_pft,RadPAR_zsec
+282,CPGR,Grain P:C ratio,CPGR_pft,CPGR_pft,CPGR_pft,CCNGR
+283,CPHSK,Husk P:C ratio,rPCHusk_pft,rPCHusk_pft,SPCAH,SPOHC
+284,CPLF,The maximum leaf P:C ratio,CPLF_pft,CPLF_pft,CPLF_pft,CNLF_pft
+285,CPND,,ASP_col,ASP_col,DPNAC,DPCAC
+286,CPO,CPO,ShootStrutElms_brch,ShootStrutElms_brch,cpo,CPOFC
+287,CPO4,Soil PO4 content,CPO4_vr,CPO4_vr,COMP4,cpo
+288,CPOOL3,,ASP_col,ASP_col,CPOOL3_node,ROWSpaceNO3_col
+289,CPOOL4,Leaf nonstructural C4 content in C4 photosynthesis,CPOOL4_node,CPOOL4_node,tXPO4_col,CPOOL4_node
+290,CPOQ,Surface irrigation H2PO4 concentration,H2PO4_irrig_mole_conc,H2PO4_irrig_mole_conc,cpo,CCAOQ
+291,CPOR,Precipitation H2PO4 concentration,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,SPORC,PopuRootMycoC_pvr
+292,CPRSV,,ASP_col,ASP_col,CPOSC_vr,CPO4S_vr
+293,CPRT,,ASP_col,ASP_col,TDPRC,CPRTS_pft
+294,CPRTS,,ASP_col,ASP_col,RCS_pft,CPRTS_pft
+295,CPSHE,,ASP_col,ASP_col,hpresc,CPSHE_pft
+296,CPSTK,,ASP_col,ASP_col,rPCStalk_pft,TKC_pft
+297,CPWS,The Carbon to Phosphorus (C:P) ratio in remobilizable non-structural biomass,rCPNonstRemob_pft,rCPNonstRemob_pft,cpw,cps
+298,CSO4,Soil SO4 content,CSO4_vr,CSO4_vr,SCOS,CSO4_vr
+299,CSOQ,Surface irrigation SO4 concentration,CSOQ,CSOQ,CSOQ,SCOS
+300,CSOR,Precipitation SO4 concentration,CSOQ,CSOQ,SPORC,trcg_rootMass_col
+301,CSOU,,ASP_col,ASP_col,CCOU,SCOS
+302,CSTR,,ASP_col,ASP_col,CSTRQ,TCS_vr
+303,CSTRQ,Surface irrigation ion strength,SurfIrrig_IonStrenth_col,SurfIrrig_IonStrenth_col,CSTRQ,TCS_vr
+304,CSTRR,Surface irrigation ion strength,SurfIrrig_IonStrenth_col,SurfIrrig_IonStrenth_col,RSC_vr,CSTRQ
+305,CTC,CTC (critical temperature for crop),TKS_vr,TKS_vr,CCACQ,CKC
+306,CanH2OHeldVg,,ASP_col,ASP_col,H2GE_col,HeatFlx2Grnd_col
+307,CanPBLeafShethC,,ASP_col,ASP_col,CanopyLeafShethC_pft,XPhaseChangeHeatL_snvr
+308,CanPBStalkC,,ASP_col,ASP_col,CanopyStalkC_pft,CanopyStalkArea_lbrch
+309,CanPBranchHeight,Branch height,CanPBranchHeight,CanPBranchHeight,CanPBranchHeight,iPlantBranchState_brch
+310,CanPCi2CaRatio,,ASP_col,ASP_col,CanPCi2CaRatio,AirConc_pft
+311,CanPHeight4WatUptake,,ASP_col,ASP_col,CanopyHeight4WatUptake_pft,HeatXAir2PCan_pft
+312,CanPLNBLA,Layer leaf area,CanopyLeafArea_lnode,CanopyLeafArea_lnode,iPlantCalendar_brch,BranchAngle_pft
+313,CanPSA,Plant Stem Area (CanPSA),CanopyStemArea_pft,CanopyStemArea_pft,CanopyMassC_pft,SPCAC
+314,CanPSheathHeight,CanPSheathHeight,LiveInterNodeHight_brch,LiveInterNodeHight_brch,TLPhaseChangeHeat2Soi_vr,CanPBranchHeight
+315,CanPShootElmMass,,ASP_col,ASP_col,POMHumStoreLndscap,SoilWatMassEnd_col
+316,CanPStalkC,,ASP_col,ASP_col,CanopyStalkC_pft,CanopyStalkArea_lbrch
+317,CanPStomaResistH2O,,ASP_col,ASP_col,CanPStomaResistH2O_pft,MinCanPStomaResistH2O_pft
+318,CanPbndlResist,,ASP_col,ASP_col,CanopyBndlResist_pft,CanopyBndlResist_col
+319,CanWatP,,ASP_col,ASP_col,VHeatCapCanopy_pft,LWRadCanopy_pft
+320,CanWatg,Total canopy water content stored in dry matter,CanopyWat_col,CanopyWat_col,trcn_AquaADV_Snow2Band_flx,CanopyWat_col
+321,CanopyHeight,,ASP_col,ASP_col,CanopyHeight_pft,CanopyHeight_col
+322,CanopyHeightz,,ASP_col,ASP_col,CanopyHeightZ_col,CanopyHeight_pft
+323,ClumpFactor,The clumping factor for self-shading in a canopy layer,ClumpFactor_pft,ClumpFactor_pft,ClumpFactor_pft,ClumpFactorNow_pft
+324,ClumpFactort,,ASP_col,ASP_col,ClumpFactor_pft,ClumpFactorNow_pft
+325,ClumpFactort0,,ASP_col,ASP_col,ClumpFactor_pft,ClumpFactorNow_pft
+326,DCO2,,ASP_col,ASP_col,DPCO2,CO2E_col
+327,DCORP,Soil mixing fraction with tillage,DepzCorp_col,DepzCorp_col,DepzCorp_col,REcoDOMProd_vr
+328,DFGS,Coefficient for dissolution - volatilization,DiffusivitySolutEffM_vr,DiffusivitySolutEffM_vr,FESG,SurfGas_lnd
+329,DGSTGF,The Gain in normalized node number during reproductive growth stages,dReproNodeNumNormByMatG_brch,dReproNodeNumNormByMatG_brch,CGSG,OGSG
+330,DGSTGI,Gain in normalized node number during vegetative growth stages,HourlyNodeNumNormByMatgrp_brch,HourlyNodeNumNormByMatgrp_brch,CGSG,OGSG
+331,DH,Number of EW grid cells,DH_col,DH_col,XDPTH_3D,DHUM
+332,DIRRA,The depth to which automatic irrigation,DIRRA,DIRRA,DIRRA,DIRRI
+333,DMEAR,Ear growth yield,EarBiomGrowthYld_pft,EarBiomGrowthYld_pft,RadianPerDegree,EMODR
+334,DMGR,"Grain growth yield, represented by the parameter DMGR,",GrainBiomGrowthYld_pft,GrainBiomGrowthYld_pft,OMGR,RDOMMicProd_vr
+335,DMHSK,,ASP_col,ASP_col,DUKM,ZHKM
+336,DMLF,Leaf growth yield,LeafBiomGrowthYld_pft,LeafBiomGrowthYld_pft,FDML,FL
+337,DMND,Nodule growth yield,NoduGrowthYield_pft,NoduGrowthYield_pft,DWIND,TDWND
+338,DMRSV,,ASP_col,ASP_col,PSD_vr,RDOMEcoDmndPrev_vr
+339,DMSHE,Sheath growth yield,PetioleBiomGrowthYld_pft,PetioleBiomGrowthYld_pft,SeedNumSet_brch,cumSed_Eros_2D
+340,DMSTK,Stalk growth yield,StalkBiomGrowthYld_pft,StalkBiomGrowthYld_pft,StandDeadKCompElms_pft,StalkMassDensity
+341,DMVL,Root volume:mass ratio (DMVL),RootVolPerMassC_pft,RootVolPerMassC_pft,FDML,DV_col
+342,DPNH4,Total depth of NH4 band,BandDepthNH4_col,BandDepthNH4_col,DPN4,BandDepthNH4_col
+343,DPNHB,Depth of NH4 band,BandThicknessNH4_vr,BandThicknessNH4_vr,BandDepthNH4_col,NH3Dep2Can_brch
+344,DPNO3,Total depth of NO3 band,BandDepthNO3_col,BandDepthNO3_col,DPCO3,RootNO3DmndBand_pvr
+345,DPNOB,Depth of NO4 band,BandThicknessNO3_vr,BandThicknessNO3_vr,RootH2PO4DmndBand_pvr,RootH1PO4DmndBand_pvr
+346,DPPO4,,ASP_col,ASP_col,SPPO4,DPN4
+347,DPPOB,Depth of PO4 band,BandThicknessPO4_vr,BandThicknessPO4_vr,BandDepthPO4_col,DPH1P
+348,DTBLI,,ASP_col,ASP_col,DTBLD_col,TDisolPi_lnd
+349,DTBLY,Artificial water table depth,TileWaterTable_col,TileWaterTable_col,DTBLD_col,StalkBiomGrowthYld_pft
+350,DTKC,Change in canopy temperature,DeltaTKC_pft,DeltaTKC_pft,TKSD_col,DCKI
+351,DV,Number of EW grid cells,DH_col,DH_col,DV_col,PSD_vr
+352,DYLM,Maximum daylength,DayLenthMax,DayLenthMax,FDML,DLYR_3D
+353,DYLN,Daylength,DayLensCurr_col,DayLensCurr_col,TDisolNH4_lnd,DLYR_3D
+354,DYLX,,ASP_col,ASP_col,DLYR_3D,DLYRI_3D
+355,DepthInternalWTBL,,ASP_col,ASP_col,rLen2WidthLeaf_pft,iPlantPhenolPattern_pft
+356,DrySnoFlxBySnowRedistributM,,ASP_col,ASP_col,DrySnoFlxByRedistM_2DH,DrySnoByRedistrib_2DH
+357,DrysnoBySnowRedistribution,,ASP_col,ASP_col,IceSnoBySnowRedist_2DH,DrySnoByRedistrib_2DH
+358,ECND,Electrical conductivity (ECND),ElectricConductivity_vr,ElectricConductivity_vr,DENSICE,doSenescence_brch
+359,EHUM,Partitioning coefficient between humus and microbial residue (EHUM) determines the proportion of carbon matter that,EHUM_vr,EHUM_vr,EHUM_vr,EOMH
+360,EHVST,Harvest efficiency,FracBiomHarvsted,FracBiomHarvsted,THETW_vr,THETI_vr
+361,ENGYX,Canopy heat storage from previous time step relates to the quantity of heat energy stored in the canopy of a particular plant or vegetation cover from the previous time interval. It,ENGYX_pft,ENGYX_pft,ENGYX_pft,GNOX
+362,EPOC,Partitioning coefficient between Particulate Organic Carbon (POC) and litter,EPOC_vr,EPOC_vr,cpo,DepzCorp_col
+363,EPOLNB,Branch nodule nonstructural C,CanopyNodulNonstElms_brch,CanopyNodulNonstElms_brch,PetoleLensNode_brch,iPondBotLev_col
+364,EPOLNP,Canopy nodule nonstructural element,CanopyNodulNonstElms_pft,CanopyNodulNonstElms_pft,PlantPopu_col,KoppenClimZone_col
+365,EPOOL,"EPOOL, or Branch Nonstructural Element,",CanopyNonstElms_brch,CanopyNonstElms_brch,SLOPE_col,CPOOL4_node
+366,EPOOLN,Root layer non-structural element,RootMycoNonstElms_rpvr,RootMycoNonstElms_rpvr,CPOOL4_node,CPOOL3_node
+367,EPOOLR,Root layer nonstructural element,RootMycoNonstElms_rpvr,RootMycoNonstElms_rpvr,RootPoreVol_pvr,LOGPOROS_vr
+368,ESNC,ESNC (plant litterfall element),LitrfalStrutElms_CumYr_pft,LitrfalStrutElms_CumYr_pft,doSenescence_brch,DENSICE
+369,ETCanP,,ASP_col,ASP_col,ReistanceCanopy_pft,VHeatCapCanopy_pft
+370,ETGR4,Maximum light C4 carboxylation rate under saturating CO2,LigthSatC4CarboxyRate_node,LigthSatC4CarboxyRate_node,RAcetateUptkHeter_vr,RFertNH4SpecReleaz
+371,ETGRO,Maximum light carboxylation rate under saturating CO2,LigthSatCarboxyRate_node,LigthSatCarboxyRate_node,RootPoreTortu4Gas_pft,TORGN
+372,ETMX,,ASP_col,ASP_col,TMPX,MaxPotentSeedNumber_pft
+373,EvapTransHeatP,,ASP_col,ASP_col,EvapTransLHeat_pft,iYearPlantHarvest_pft
+374,F1PR,,ASP_col,ASP_col,SPF1P1,DPF1P
+375,F2PR,,ASP_col,ASP_col,SPF2P2,DPF2P
+376,FDBK,Branch Down-regulation of CO2 fixation,RubiscoActivity_brch,RubiscoActivity_brch,FBS,IFLB_2DH
+377,FDBK4,"Negative regulation of the carbon fixation pathway, known as C4 photosynthesis, where the reaction",C4PhotosynDowreg_brch,C4PhotosynDowreg_brch,DPFE4,FBS
+378,FDBKX,"Negative regulation of the carbon fixation pathway, known as C4 photosynthesis, where the reaction",C4PhotosynDowreg_brch,C4PhotosynDowreg_brch,XFRX,FXFS
+379,FDPTH,Depth of fertilizer application,FDPTH,FDPTH,FDPTH,WDPTH
+380,FERT,Fertilizer application,FERT,FERT,Tref,FERT
+381,FESGL,,ASP_col,ASP_col,FESG,SurfGasEmiss_flx_col
+382,FILM,Soil water film thickness,FILMM_vr,FILMM_vr,FILMM_vr,FDML
+383,FIRRA,FIRRA (Fraction of FC - WP below which automatic irrigation applied),FIRRA_col,FIRRA_col,IIRRA,DIRRA
+384,FLG4,Flag to detect physiological maturity from grain fill,HourFailGrainFill_brch,HourFailGrainFill_brch,FL,IFLGV_col
+385,FLGZ,Counter for mobilizing nonstructural C during autumn leafoff/hardening,HoursDoingRemob_brch,HoursDoingRemob_brch,ZLSG,FL
+386,FLQGI,Irrigation flux into soil surface,Irrig2LitRSurf_col,Irrig2LitRSurf_col,IFLGV_col,Qinflx2Soil_col
+387,FLQGQ,Precipitation flux into soil surface,Rain2SoilSurf_col,Rain2SoilSurf_col,CQSG,CALQ
+388,FLQRI,Irrigation flux into surface litter quantifies the amount of water added to the surface litter layer of the soil through irrigation. Surface litter,Irrig2LitRSurf_col,Irrig2LitRSurf_col,QIceInflx_vr,Irrig2LitRSurf_col
+389,FLQRQ,Precipitation flux into surface litter,Rain2LitRSurf_col,Rain2LitRSurf_col,QRunSurf_col,QflxSurfRunoffM_2DH
+390,FMOL,Total gas concentration,AirConc_pft,AirConc_pft,DOM_SurfRunoff_flx_col,FDML
+391,FNOD,Parameter for allocation of growth to nodes,FracGroth2Node_pft,FracGroth2Node_pft,DOM_FloXSurRunoff_2DH,RootNO3DmndBand_pvr
+392,FOSRH,Fraction of total organic C in complex,FracBulkSOMC_vr,FracBulkSOMC_vr,Hours4LeafOff_brch,SHFEO
+393,FWatDischarge,,ASP_col,ASP_col,FracBiomHarvsted,HeatDischar_col
+394,FWatExMacP2MicPM,Soil macropore - micropore water transfer,FWatExMacP2MicPM_vr,FWatExMacP2MicPM_vr,FWatExMacP2MicPM_vr,FWatExMacP2MicP_vr
+395,FWatIrrigate2MicP,,ASP_col,ASP_col,FWatIrrigate2MicP_vr,GrainFillRate25C_pft
+396,FracPARByCanP,,ASP_col,ASP_col,RadPARbyCanopy_pft,FracPARads2Canopy_pft
+397,FracSWRad2Grnd,,ASP_col,ASP_col,FracSWRad2Grnd_col,RadSWGrnd_col
+398,FracSurfAsBareSoi,,ASP_col,ASP_col,FracSurfBareSoil_col,FracSurfAsSnow_col
+399,FracSurfByLitR,FracSurfByLitR,NodulerNC_pft,NodulerNC_pft,FracSurfByLitR_col,SurfLitrfalStrutElms_CumYr_pft
+400,GAZI,,ASP_col,ASP_col,SAZI,ALTIG
+401,GCOS,,ASP_col,ASP_col,OCSG,trcg_snowMass_beg_col
+402,GFILL,Maximum rate of fill per grain,GrainFillRate25C_pft,GrainFillRate25C_pft,IFLGV_col,FL
+403,GKC4,The Ca-NH4 Gapon selectivity coefficient (GKC4),GKC4_vr,GKC4_vr,CCK4,GKC4_vr
+404,GKCA,Ca-Al Gapon selectivity coefficient (GKCA),GKCA_vr,GKCA_vr,GKCA_vr,CASG
+405,GKCH,The Ca-H Gapon selectivity coefficient,GKCH_vr,GKCH_vr,GKCH_vr,CHSG
+406,GKCK,"Ca-K Gapon selectivity coefficient, represented as GK:CK,",GKCK_vr,GKCK_vr,GKCK_vr,CKC
+407,GKCM,The Ca-Mg Gapon selectivity coefficient (GKCM),GKCM_vr,GKCM_vr,CCKM,GKCM_vr
+408,GKCN,The Ca-Na Gapon selectivity coefficient (GKCN),GKCN_vr,GKCN_vr,GKCN_vr,CCNGR
+409,GMSGL,Aqueous Mg diffusivity,GMSG,GMSG,GMSG,CGSG
+410,GPP,Gross Primary Productivity (GPP),NetPrimProduct_pft,NetPrimProduct_pft,PPI_pft,PPX_pft
+411,GRNO,Canopy grain number,CanopySeedNum_pft,CanopySeedNum_pft,TORGN,orgcden
+412,GRNOB,Branch grain number,SeedNumSet_brch,SeedNumSet_brch,TORGN,HoursDoingRemob_brch
+413,GRNXB,Branch potential grain number,PotentialSeedSites_brch,PotentialSeedSites_brch,FXRN,GNOX
+414,GROUP,Plant maturity group,MatureGroup_brch,MatureGroup_brch,GROUPX_pft,TORGP
+415,GROUPI,Acclimated Plant Maturity Group,MatureGroup_pft,MatureGroup_pft,PSIRootTurg_vr,GROUPX_pft
+416,GROUPX,Initial plant maturity group,GROUPX_pft,GROUPX_pft,GROUPX_pft,TORGP
+417,GRWTB,Maximum grain C during grain fill,GrainSeedBiomCMean_brch,GrainSeedBiomCMean_brch,RechargRateWestWTBL_col,GrainBiomGrowthYld_pft
+418,GSIN,The value obtained from the mathematical function of sine applied to the gradient or slope. It,SineGrndSlope_col,SineGrndSlope_col,IMNG,ZNSG
+419,GSTGF,Normalized node number during reproductive growth stages,ReprodNodeNumNormByMatrgrp_brch,ReprodNodeNumNormByMatrgrp_brch,CGSG,OGSG
+420,GSTGI,Normalized node number during vegetative growth stages,TotalNodeNumNormByMatgrp_brch,TotalNodeNumNormByMatgrp_brch,CGSG,OGSG
+421,GasSfAtmFlx,The flux of a gas between the Earth's surface and the atmosphere.,Gas_Prod_TP_cumRes_col,Gas_Prod_TP_cumRes_col,SurfGasEmiss_flx_col,RadSWLeafTransmis_pft
+422,GridMaxCanopyHeight,,ASP_col,ASP_col,CanPBranchHeight,CanopyHeight_pft
+423,H2GE,Atmospheric H2 concentration,H2GE_col,H2GE_col,H2GE_col,EO2G
+424,H2OVapDifscSno,Water vapor diffusivity,WGSG,WGSG,H2OVapDifsc_snvr,HeatConvSno2Soi_snvr
+425,HCH4G,,ASP_col,ASP_col,CHSG,HCSG
+426,HCO2G,,ASP_col,ASP_col,H2GE_col,H2GOU
+427,HCOB,HCOB,HCSG,HCSG,COOH,ECO_HR_CH4_col
+428,HCSGL,Aqueous HCO3 diffusivity,HCSG,HCSG,CLSG,CHSG
+429,HESNC,Plant element litterfall,LitrfalStrutElms_CumYr_pft,LitrfalStrutElms_CumYr_pft,ECNH,doSenescence_brch
+430,HEUPTK,Net root element uptake (+ve) - exudation (-ve),PlantRootSoilElmNetX_pft,PlantRootSoilElmNetX_pft,HPKU,CanopyHeight4WatUptake_pft
+431,HGSGL,Gaseous H2 diffusivity,HGSG,HGSG,HLSG,HGSG
+432,HLSGL,Aqueous H2 diffusivity,HLSG,HLSG,HLSG,CLSG
+433,HN2GG,,ASP_col,ASP_col,HGSG,GN2X
+434,HN2OG,,ASP_col,ASP_col,H2GOU,PICON2h
+435,HNH3G,,ASP_col,ASP_col,SNH3X,CanPBranchHeight
+436,HOXYG,,ASP_col,ASP_col,OXYGOU,SOXYX
+437,HTC,"HTC, or High Temperature Cutoff,",HeatSource_vr,HeatSource_vr,TRChem_HCO3_col,TCGroth_pft
+438,HTNODE,"Height of the internode, which",InternodeHeightDead_brch,InternodeHeightDead_brch,InternodeHeightDead_brch,HeatStore_lnd
+439,HTNODX,,ASP_col,ASP_col,trcn_FloXSnow_2DH,TDCNO
+440,HUDN,,ASP_col,ASP_col,HUDN_col,DHUM
+441,HUDX,,ASP_col,ASP_col,HUDX_col,DHUM
+442,HVST,Harvest cutting height or fractional Leaf Area Index (LAI) removal,FracCanopyHeightCut_pft,FracCanopyHeightCut_pft,jHarvst_pft,ThetaSat_vr
+443,HVSTE,Plant element harvest,EcoHavstElmnt_CumYr_pft,EcoHavstElmnt_CumYr_pft,THETW_vr,THETI_vr
+444,HYSGL,Aqueous H diffusivity,HYSG,HYSG,HYSG,HLSG
+445,Heat2GridBySurfRunoff,,ASP_col,ASP_col,HeatXGridBySurfRunoff_2DH,THeatXGridBySurfRunoff_2DH
+446,HeatByRadiation,,ASP_col,ASP_col,LigthSatCarboxyRate_node,HeatDrain_col
+447,HeatBySnowRedistribution,,ASP_col,ASP_col,RUreaInhibtorConst,WatSnoByRedist_2DH
+448,HeatEvapAir2Surf,,ASP_col,ASP_col,HeatEvapAir2Surf_col,iHarvestYear_pft
+449,HeatFLo2LitrByWat,,ASP_col,ASP_col,HeatFLoByWat2LitR_col,TileWaterTable_col
+450,HeatFlow2Soil,,ASP_col,ASP_col,THeatFlow2Soil_col,HeatFlow2Soil_3D
+451,HeatIrrigation,,ASP_col,ASP_col,HeatIrrigation_vr,Irrigation_col
+452,HeatNet2Surf,"Total ground heat flux at ground surface, often expressed in watts per square meter (W/m²),",HeatNet2Surf_col,HeatNet2Surf_col,HeatNet2Surf_col,Hours4SenesAftMature
+453,HeatSensAir2Surf,Total sensible heat flux at ground surface,HeatSensAir2Surf_col,HeatSensAir2Surf_col,HeatSensAir2Surf_col,HeatSensVapAir2Surf_col
+454,HeatSensVapAir2Surf,Total convective heat flux at ground surface,HeatSensVapAir2Surf_col,HeatSensVapAir2Surf_col,HeatSensVapAir2Surf_col,HeatSensAir2Surf_col
+455,HeatStorCanP,"Canopy storage heat flux, or 'heat stored in the canopy',",HeatStorCanopy_pft,HeatStorCanopy_pft,HeatStorCanopy_pft,CanopyHeatStor_col
+456,HeatXAir2PCan,Air to Canopy Sensible Heat Flux,HeatXAir2PCan_pft,HeatXAir2PCan_pft,HeatXAir2PCan_pft,CanPCi2CaRatio
+457,HydroCondMacP,Macropore hydraulic conductivity (HydroCondMacP),HydroCondMacP_vr,HydroCondMacP_vr,HydroCondMacP_vr,HydroCond_3D
+458,HypoctoylHeight,,ASP_col,ASP_col,HypoctoHeight_pft,CanopyHeight_col
+459,IceBySnowRedistribution,Snowpack runoff ice,IceSnoBySnowRedist_2DH,IceSnoBySnowRedist_2DH,IceSnoBySnowRedist_2DH,RUreaInhibtorConst
+460,IrrigSubsurf,"Underground irrigation, also known as subsurface irrigation,",IrrigSubsurf_col,IrrigSubsurf_col,IrrigSubsurf_col,Irrig2LitRSurf_col
+461,IrrigSurface,,ASP_col,ASP_col,IrrigSurface_col,IrrigSubsurf_col
+462,KASR,The definition of KASR,CKA_vr,CKA_vr,RTSK,ARSG
+463,LWRadBySurf,,ASP_col,ASP_col,LWRadBySurf_col,SWRad_hrly
+464,LWRadCanG,,ASP_col,ASP_col,LWRadCanG_col,LWRadCanGPrev_col
+465,LWRadCanGPrev,"Longwave radiation emitted by the canopy, also known as thermal infrared radiation,",LWRadCanGPrev_col,LWRadCanGPrev_col,LWRadCanGPrev_col,iPlantCalendar_brch
+466,LWRadCanP,Canopy longwave radiation,LWRadCanopy_pft,LWRadCanopy_pft,LWRadCanGPrev_col,LWRadCanopy_pft
+467,LWRadGrnd,,ASP_col,ASP_col,LWRadGrnd,RadSWGrnd_col
+468,LWRadSky,Sky longwave radiation,SkyLonwRad_col,SkyLonwRad_col,LWRadSky_col,SWRad_hrly
+469,MGHR,,ASP_col,ASP_col,OMGR,TRChem_gas_NH3_geochem_vr
+470,MGSR,MGSR,CMG_vr,CMG_vr,GMSG,trcg_gasml_vr
+471,MaxCanPStomaResistH2O,,ASP_col,ASP_col,MinCanPStomaResistH2O_pft,CanPStomaResistH2O_pft
+472,MaxPrimRootRadius,,ASP_col,ASP_col,Root2ndMaxRadius_pft,MacPoreRadius_vr
+473,MaxPrimRootRadius1,,ASP_col,ASP_col,Root2ndMaxRadius1_pft,Root1stMaxRadius_pft
+474,MaxSecndRootRadius,,ASP_col,ASP_col,Root2ndMaxRadius_pft,Root2ndMaxRadius1_pft
+475,MaxSecndRootRadius1,Root diameter,Root1stMaxRadius1_pft,Root1stMaxRadius1_pft,Root2ndMaxRadius1_pft,Root2ndMaxRadius_pft
+476,MaxSeedCMass,,ASP_col,ASP_col,MaxSeedCMass_pft,SeedCMass_pft
+477,MinCanPStomaResistH2O,,ASP_col,ASP_col,MinCanPStomaResistH2O_pft,CanPStomaResistH2O_pft
+478,Mpa,,ASP_col,ASP_col,AMP1,AMP2
+479,NACR,NACR,CNA_vr,CNA_vr,CNA_vr,iPlantCalendar_brch
+480,NASR,NASR (Net Aboveground Stand Respiration),VMXO,VMXO,SAND_vr,WatXfer2SnoLay_snvr
+481,NewSnowDens,,ASP_col,ASP_col,NewSnowDens_col,SnowEngyEnd_col
+482,O2I,,ASP_col,ASP_col,CO2KI,O2I_pft
+483,O2L,,ASP_col,ASP_col,RootCO2Ar2Soil_col,Z2OE_col
+484,OASGL,,ASP_col,ASP_col,OLSG,OASG
+485,OCSGL,,ASP_col,ASP_col,CLSG,OLSG
+486,OFFSET,Offset for calculating temperature in Arrhenius curves,TempOffset_col,TempOffset_col,TempOffset_pft,TempOffset_col
+487,OFFST,OFFST,ALAT_col,ALAT_col,TC4LeafOff_pft,TempOffset_pft
+488,OHAER,,ASP_col,ASP_col,LeafNodeArea_brch,HeatSource_vr
+489,OHCER,,ASP_col,ASP_col,ECO_HR_CO2_vr,ECO_HR_CH4_vr
+490,OHNER,,ASP_col,ASP_col,Hours4LenthenPhotoPeriod_brch,Hours4ShortenPhotoPeriod_brch
+491,OHPER,,ASP_col,ASP_col,Hours4LenthenPhotoPeriod_brch,Hours4ShortenPhotoPeriod_brch
+492,OHSGL,,ASP_col,ASP_col,OLSG,OHSG
+493,OMEGAG,,ASP_col,ASP_col,OMEGAG,OMEGA
+494,ONSGL,,ASP_col,ASP_col,OLSG,ONSG
+495,OPSGL,,ASP_col,ASP_col,OLSG,POSG
+496,ORCER,,ASP_col,ASP_col,ECO_HR_CO2_vr,RootResp_CumYr_col
+497,ORNER,,ASP_col,ASP_col,Root2ndLen_rpvr,RN2ORedux_vr
+498,ORPER,,ASP_col,ASP_col,RProd_Hp_vr,RootPoreVol_pvr
+499,OSAER,,ASP_col,ASP_col,Air_Heat_Sens_store_col,XUreaSoil_Eros_2D
+500,OSCER,,ASP_col,ASP_col,TRChem_Ca_sorbed_soil_vr,ECO_ER_col
+501,OSMO,Canopy osmotic potential when canopy water potential = 0 MPa,CanOsmoPsi0pt_pft,CanOsmoPsi0pt_pft,PSIRootOSMO_vr,SolidOM_Eros_2D
+502,OSNER,,ASP_col,ASP_col,SnoXfer2SnoLay_snvr,SnoDens_snvr
+503,OSPER,,ASP_col,ASP_col,fRootGrowPSISense_pvr,GrossResp_pft
+504,OXYE,,ASP_col,ASP_col,OXYE_col,SOXYX
+505,PAR,,ASP_col,ASP_col,RootAreaPerPlant_pvr,RadPARbyCanopy_pft
+506,PARByCanP,,ASP_col,ASP_col,RadPARbyCanopy_pft,FracPARads2Canopy_pft
+507,PARDIF,,ASP_col,ASP_col,RadPARDiffus_col,RadDifPAR_zsec
+508,PARG,Soil surface boundary layer conductance,CondGasXSnowM_col,CondGasXSnowM_col,ARSG,Ar_Gas_frac_vr
+509,PARR,Surface litter boundary layer conductance,PARR_col,PARR_col,RootAreaPerPlant_pvr,PARR_col
+510,PB,The nonstructural carbon content required for a new branch in a plant.,NonstCMinConc2InitBranch_pft,NonstCMinConc2InitBranch_pft,PPI_pft,PPX_pft
+511,PDRAIN,,ASP_col,ASP_col,PDRAIN_col,RAIN
+512,PEPC,Leaf PEP carboxylase content,FracLeafProtinAsPEPCarboxyl_pft,FracLeafProtinAsPEPCarboxyl_pft,CPSHE_pft,SPFEP
+513,PHQ,,ASP_col,ASP_col,PHQ,CH0PQ
+514,PHR,Precipitation pH,pH_rain_col,pH_rain_col,PH_vr,CPRH
+515,POSGL,,ASP_col,ASP_col,OLSG,POSG
+516,PPI,Initial plant population,PPI_pft,PPI_pft,PPI_pft,PPX_pft
+517,PPT,The total plant population,PlantPopu_col,PlantPopu_col,PPI_pft,PPX_pft
+518,PPX,,ASP_col,ASP_col,PPX_pft,PPI_pft
+519,PPZ,"Plant population at seeding, also known as PPZ,",PPatSeeding_pft,PPatSeeding_pft,PPI_pft,PPX_pft
+520,PR,Threshold root nonstructural C content for initiating new root axis,MinNonstC2InitRoot_pft,MinNonstC2InitRoot_pft,RProd_Hp_vr,SRP_vr
+521,PRECB,,ASP_col,ASP_col,DPREC,rPCReserve_pft
+522,PRECD,,ASP_col,ASP_col,DPREC,PrecDirect2Grnd_col
+523,PSIAtFldCapacity,,ASP_col,ASP_col,PSIAtFldCapacity_col,FieldCapacity_vr
+524,PSICanP,,ASP_col,ASP_col,PSICanopy_pft,PSICanPDailyMin_pft
+525,PSICanPDailyMin,,ASP_col,ASP_col,PSICanPDailyMin_pft,iDayPlanting_pft
+526,PSICanPOsmo,,ASP_col,ASP_col,PSICanopyOsmo_pft,CanOsmoPsi0pt_pft
+527,PSICanPTurg,,ASP_col,ASP_col,PSICanopyTurg_pft,trcs_TransptMicP_3D
+528,PSIGrav,,ASP_col,ASP_col,PSIGrav_vr,VLsoiAirP_vr
+529,PSIRoot,,ASP_col,ASP_col,RootUptkSoiSol_pvr,RootPorosity_pft
+530,PSIRootOSMO,,ASP_col,ASP_col,PSIRootOSMO_vr,RootUptkSoiSol_pvr
+531,PSIRootTurg,,ASP_col,ASP_col,PSIRootTurg_vr,RootPoreTortu4Gas_pft
+532,PSISE,,ASP_col,ASP_col,PSIPS,PSISE_vr
+533,PSISoilAirEntry,,ASP_col,ASP_col,PSISoilAirEntry,PSISoilMatricP_vr
+534,PSISoilOsmotic,,ASP_col,ASP_col,PSISoilOsmotic_vr,VolMaxSoilMoist4Fire
+535,PSTG,Node number,NodeNumberAtAnthesis_brch,NodeNumberAtAnthesis_brch,LSG_pft,SETP
+536,PSTGF,Node number at anthesis,NodeNumberAtAnthesis_brch,NodeNumberAtAnthesis_brch,LSG_pft,CPRTS_pft
+537,PSTGI,Node number at floral initiation,NodeNum2InitFloral_brch,NodeNum2InitFloral_brch,LOGPSIAtSat,PSIPS
+538,PTSHT,Shoot-root rate constant for nonstructural C exchange,ShutRutNonstElmntConducts_pft,ShutRutNonstElmntConducts_pft,iPlantShootState_pft,ShootStrutElms_pft
+539,PTrans,,ASP_col,ASP_col,Transpiration_pft,trcSalt_TransptMacP_3D
+540,PlantO2Stress,Plant O2 stress indicator,PlantO2Stress_pft,PlantO2Stress_pft,PlantO2Stress_pft,StomatalStress_pft
+541,PlantinDepth,Planting depth,PlantinDepz_pft,PlantinDepz_pft,iPlantPhenolPattern_pft,PlantinDepz_pft
+542,PrecAtm,The sum of rainfall and snowfall that a particular region receives over a period of time.,PrecAtm_col,PrecAtm_col,PrecAtm_col,PathLenMacPore_vr
+543,PrecIntcptByCanG,,ASP_col,ASP_col,PrecIntcptByCanopy_pft,PrecIntceptByCanopy_col
+544,PrecIntcptByCanP,,ASP_col,ASP_col,PrecIntcptByCanopy_pft,PrecIntceptByCanopy_col
+545,PrecRainAndSurfirrig,,ASP_col,ASP_col,PrecRainAndIrrig_col,DIRRA
+546,PrimRootDepth,,ASP_col,ASP_col,CriticPhotoPeriod_pft,RootRespPotent_pvr
+547,PrimRootLen,Root layer length of primary axes,Root1stLen_rpvr,Root1stLen_rpvr,RootProteinC_pvr,RAutoRootO2Limter_rpvr
+548,PrimRootRadius,,ASP_col,ASP_col,RootRaidus_rpft,Root1stRadius_pvr
+549,PrimRootSpecLen,,ASP_col,ASP_col,EnergyImpact4Erosion_colM,EnergyImpact4Erosion_col
+550,PrimRootXNumL,Root layer number primary axes,Root1stXNumL_pvr,Root1stXNumL_pvr,Root1stXNumL_pvr,Root2ndXNum_rpvr
+551,PrimRootXSecArea,The cross-sectional area of the primary root axes,Root1stXSecArea_pft,Root1stXSecArea_pft,MacPoreRadius_vr,Root2ndXSecArea_pft
+552,R3GasADTFlx,,ASP_col,ASP_col,trcSalt_AquaAdv_flx_snvr,trcg_AquaADV_Snow2Litr_flx
+553,RAD,,ASP_col,ASP_col,DRAD,DIRRA
+554,RADS,,ASP_col,ASP_col,SRAD,DRAD
+555,RADY,,ASP_col,ASP_col,DRAD,DIRRA
+556,RAP,,ASP_col,ASP_col,RootAreaPerPlant_pvr,RadPARbyCanopy_pft
+557,RAPS,,ASP_col,ASP_col,RadPARLeafTransmis_pft,RadPAR_zsec
+558,RAPY,,ASP_col,ASP_col,RadPARbyCanopy_pft,FracPARads2Canopy_pft
+559,RAZ,Canopy roughness height,ReistanceCanopy_pft,ReistanceCanopy_pft,RadPAR_zsec,Ar_Gas_frac_vr
+560,RCELX,"Element translocated from leaf during senescence, often represented as RCELX,",LeafElmntRemobFlx_brch,LeafElmntRemobFlx_brch,XER_col,CER_col
+561,RCESX,Element translocated from sheath during senescence,PetioleChemElmRemobFlx_brch,PetioleChemElmRemobFlx_brch,trcx_Eros_2D,RCCXR
+562,RCH4F,,ASP_col,ASP_col,FrcAsCH4byFire,ECO_HR_CH4_vr
+563,RCH4L,,ASP_col,ASP_col,ECO_HR_CH4_vr,ECO_HR_CH4_col
+564,RCH4O,,ASP_col,ASP_col,ECO_HR_CH4_vr,ECO_HR_CH4_col
+565,RCH4S,,ASP_col,ASP_col,SCH4X,ECO_HR_CH4_vr
+566,RCHGD,Lower subsurface boundary water flux,H2OLoss_CumYr_col,H2OLoss_CumYr_col,RCH4ProdHydrog_vr,GKCH_vr
+567,RCMX,"Maximum stomatal resistance to CO2, also known as RCMX,",CO2CuticleResist_pft,CO2CuticleResist_pft,RCCXR,RCCX
+568,RCO2A,,ASP_col,ASP_col,CO2_Gas_Frac_vr,RootCO2Ar2Soil_vr
+569,RCO2F,,ASP_col,ASP_col,FORGC,ECO_HR_CO2_vr
+570,RCO2M,,ASP_col,ASP_col,RCO2Emis2Root_pvr,DOM_Mac2MicPore_flx_vr
+571,RCO2N,,ASP_col,ASP_col,RainPrec2Sno_col,DCNOR
+572,RCO2O,Microbial net CO2 exchange,Micb_N2Fixation_vr,Micb_N2Fixation_vr,RootCO2Ar2Root_col,RootCO2Ar2Soil_col
+573,RCO2P,,ASP_col,ASP_col,CanopyGrosRCO2_pft,Prec2Canopy_col
+574,RCO2S,,ASP_col,ASP_col,RootCO2Ar2Soil_vr,RCO2Emis2Root_pvr
+575,RCPSX,,ASP_col,ASP_col,SPORC,cps
+576,RCS,Shape parameter for calculating stomatal resistance from turgor pressure,RCS_pft,RCS_pft,RSC_vr,trcg_mass_cumerr_col
+577,RCZSX,,ASP_col,ASP_col,RCCZR,RCCXR
+578,RDFOME,RDFOME,DOY,DOY,EMODR,EOMD
+579,RECO,,ASP_col,ASP_col,ECO_ER_col,CER_col
+580,RH2GO,Microbial net H2 exchange,Micb_N2Fixation_vr,Micb_N2Fixation_vr,H2GOU,RoughHeight_col
+581,RH2GS,,ASP_col,ASP_col,SH2GX,HGSG
+582,RH2GZ,,ASP_col,ASP_col,Z2SG,ZHSG
+583,RIB,,ASP_col,ASP_col,DIRRI,IIRRA
+584,RN2BX,,ASP_col,ASP_col,FXRN,GN2X
+585,RN2BY,,ASP_col,ASP_col,EN2Y,N2ObyFire_CumYr_pft
+586,RN2G,,ASP_col,ASP_col,GN2X,SN2GX
+587,RN2O,,ASP_col,ASP_col,RN2ONitProd_vr,Root2ndLen_rpvr
+588,RN2OX,,ASP_col,ASP_col,RootN2Fix_vr,Root2ndXNum_rpvr
+589,RN2OY,,ASP_col,ASP_col,RN2ONitProd_vr,Root2ndLen_rpvr
+590,RN2S,,ASP_col,ASP_col,SnoXfer2SnoLay_snvr,RSN_vr
+591,RN3BX,,ASP_col,ASP_col,RNH3oxi_vr,FXRN
+592,RN3BY,,ASP_col,ASP_col,NH3byFire_CumYr_pft,NH3byFire_CumYr_col
+593,RNH3B,,ASP_col,ASP_col,BranchNumber_brch,NH3Dep2Can_brch
+594,RNH3C,,ASP_col,ASP_col,CNRH,NH3Dep2Can_brch
+595,RNH3Z,,ASP_col,ASP_col,ZNHUI_vr,ZNHU0_vr
+596,RNH4X,,ASP_col,ASP_col,CNH4_vr,RNH3oxi_vr
+597,RNH4Y,,ASP_col,ASP_col,CNH4_vr,CNRH
+598,RNHBX,,ASP_col,ASP_col,BranchNumber_brch,BranchNumber_pft
+599,RNHBY,,ASP_col,ASP_col,BranchNumber_brch,HourlyNodeNumNormByMatgrp_brch
+600,RNO2X,,ASP_col,ASP_col,RootN2Fix_vr,Root2ndXNum_rpvr
+601,RNO2Y,,ASP_col,ASP_col,RN2ONitProd_vr,Root2ndLen_rpvr
+602,RNO3X,,ASP_col,ASP_col,RNH3oxi_vr,RNH3OxidAutor_vr
+603,RNO3Y,,ASP_col,ASP_col,CNO3_vr,RNH3oxi_vr
+604,ROQAX,,ASP_col,ASP_col,trcg_Root_gas2aqu_flx_vr,RNO2OxidAutor_vr
+605,ROQAY,,ASP_col,ASP_col,POROQ,ORAD
+606,ROQCX,,ASP_col,ASP_col,RCCXR,RCCQR
+607,ROQCY,,ASP_col,ASP_col,QRain_CumYr_col,CO2byFire_CumYr_col
+608,ROWI,,ASP_col,ASP_col,ROWI,ORCI
+609,ROWN,,ASP_col,ASP_col,WatFlowInSnowM_snvr,ROWI
+610,ROWO,,ASP_col,ASP_col,ROWI,RootCO2Ar2Root_col
+611,ROWP,,ASP_col,ASP_col,fTgrowRootP_vr,POROQ
+612,ROXSK,Total O2 sink,RO2UptkSoilM_vr,RO2UptkSoilM_vr,RootO2_Xink_vr,SOXYX
+613,ROXYF,,ASP_col,ASP_col,XFRY,VmaxRubOxyRef_pft
+614,ROXYL,,ASP_col,ASP_col,HydroIonFlx_CumYr_col,OXYE_col
+615,ROXYP,,ASP_col,ASP_col,PopuRootMycoC_pvr,SOXYX
+616,ROXYX,,ASP_col,ASP_col,SOXYX,XFRX
+617,ROXYY,,ASP_col,ASP_col,XFRY,SOXYX
+618,RPO4X,,ASP_col,ASP_col,CPO4_vr,VmaxPO4Root_pft
+619,RPO4Y,,ASP_col,ASP_col,CPO4_vr,PopuRootMycoC_pvr
+620,RPOBX,,ASP_col,ASP_col,Vmax4RubiscoCarboxy_pft,VmaxRubCarboxyRef_pft
+621,RPOBY,,ASP_col,ASP_col,PBOT_hrly,PopuRootMycoC_pvr
+622,RRADP,Root internal radius,RootRaidus_rpft,RootRaidus_rpft,DIRRA,RProd_Hp_vr
+623,RRIG,,ASP_col,ASP_col,RRIG,trcn_irrig_vr
+624,RSETE,,ASP_col,ASP_col,rNCReserve_pft,RFertNH4SpecReleaz
+625,RSMX,Maximum stomatal resistance to vapor,H2OCuticleResist_pft,H2OCuticleResist_pft,SARX,RMAX
+626,RSRA,Root axial resistivity (RSRA),RootAxialResist_pft,RootAxialResist_pft,Ar_Gas_frac_vr,ARSG
+627,RSRR,Root radial resistivity,RootRadialResist_pft,RootRadialResist_pft,SRP_vr,RSC_vr
+628,RTARP,Root layer area per plant,RootAreaPerPlant_pvr,RootAreaPerPlant_pvr,RootAreaPerPlant_pvr,rPCEar_pft
+629,RTDNT,,ASP_col,ASP_col,TDTPN,TAU_DirectRTransmit
+630,RTFQ,Root branching frequency,RootBranchFreq_pft,RootBranchFreq_pft,FRTX,FXRT
+631,RTN2,Root layer number secondary axes refer to the number of secondary roots emerging from the primary roots in the root layer of plants.,Root2ndXNum_rpvr,Root2ndXNum_rpvr,RN2ONitProd_vr,Root2ndLen_rpvr
+632,RTVLP,Root layer volume air,RootPoreVol_pvr,RootPoreVol_pvr,trcp_saltpml_vr,LitrfalStrutElms_pvr
+633,RTVLW,Root layer volume water,RootVH2O_pvr,RootVH2O_pvr,THW_vr,VOLTX_vr
+634,RTWT1E,,ASP_col,ASP_col,THETW_vr,RAcetateUptkHeter_vr
+635,RUBP,,ASP_col,ASP_col,MatureGroup_brch,RH2PO4UptkBandAutor_vr
+636,RUCH2B,,ASP_col,ASP_col,BranchNumber_brch,Hours2LeafOut_brch
+637,RUCH2P,,ASP_col,ASP_col,CPRH,rPCHusk_pft
+638,RUCNH4,,ASP_col,ASP_col,CNH4_vr,CRUN
+639,RUCNHB,,ASP_col,ASP_col,BranchNumber_brch,CRUN
+640,RUCNO3,,ASP_col,ASP_col,CNO3_vr,CRUN
+641,RUCNOB,,ASP_col,ASP_col,CRUN,rNCOMCAutor
+642,RUNNBP,,ASP_col,ASP_col,BranchNumber_pft,CNNU
+643,RUNNHP,,ASP_col,ASP_col,CNNU,CRUN
+644,RUNNOP,,ASP_col,ASP_col,Root2ndXNum_pvr,Root2ndXNum_rpvr
+645,RUNNXP,,ASP_col,ASP_col,CNNU,Root2ndXNum_pvr
+646,RUOH2B,,ASP_col,ASP_col,Hours2LeafOut_brch,HoursDoingRemob_brch
+647,RUOH2P,,ASP_col,ASP_col,RH2PO4UptkSoilAutor_vr,RH2PO4UptkBandAutor_vr
+648,RUONH4,,ASP_col,ASP_col,Hours4Leafout_brch,RNH4UptkSoilAutor_vr
+649,RUONHB,,ASP_col,ASP_col,HoursDoingRemob_brch,ShootNodeNum_brch
+650,RUONO3,,ASP_col,ASP_col,SolarNoonHour_col,RNO3UptkSoilAutor_vr
+651,RUONOB,,ASP_col,ASP_col,SolarNoonHour_col,HoursDoingRemob_brch
+652,RUPCHS,,ASP_col,ASP_col,secsphour,hpresc
+653,RUPH2B,,ASP_col,ASP_col,MatureGroup_brch,RH2PO4UptkBandAutor_vr
+654,RUPH2P,,ASP_col,ASP_col,DPH2P,rPCHusk_pft
+655,RUPHGS,,ASP_col,ASP_col,secsphour,Hours4PhyslMature
+656,RUPN2S,,ASP_col,ASP_col,trcs_SubsurTransp_flx_2DH,Root2ndXNum_rpvr
+657,RUPN3B,,ASP_col,ASP_col,BranchNumber_pft,RNO3UptkBandAutor_vr
+658,RUPN3S,,ASP_col,ASP_col,trcs_SubsurTransp_flx_2DH,rNCHusk_pft
+659,RUPNF,,ASP_col,ASP_col,trcn_FloXSurRunoff_2D,NodulerNC_pft
+660,RUPNH4,,ASP_col,ASP_col,RNH4UptkBandAutor_vr,RH2PO4UptkBandAutor_vr
+661,RUPNHB,,ASP_col,ASP_col,BranchNumber_pft,BranchNumber_brch
+662,RUPNO3,,ASP_col,ASP_col,RNO3UptkSoilAutor_vr,RNO3UptkBandAutor_vr
+663,RUPNOB,,ASP_col,ASP_col,RNO2EcoUptkBand_vr,RNO3UptkBandAutor_vr
+664,RUPOXO,Microbial O2 uptake,REcoO2DmndResp_vr,REcoO2DmndResp_vr,PopuRootMycoC_pvr,POROQ
+665,RUPOXP,,ASP_col,ASP_col,GROUPX_pft,PopuRootMycoC_pvr
+666,RUPOXS,Aqueous O2 flux from roots to soil water,RootO2Uptk_pvr,RootO2Uptk_pvr,GROUPX_pft,secsphour
+667,RVMBC,,ASP_col,ASP_col,CMG_vr,FracBulkSOMC_vr
+668,RVMXC,,ASP_col,ASP_col,VMXC,VMXC
+669,RadNet2CanP,Canopy net radiation (RadNet2CanP),RadNet2Canopy_pft,RadNet2Canopy_pft,RadNet2Canopy_pft,iPlantCalendar_brch
+670,RainFalPrec,,ASP_col,ASP_col,RainFalPrec_col,RainPrecThrufall_col
+671,RechargEastSubSurf,,ASP_col,ASP_col,RechrgDistEastSubSurf_col,RechargEastSurf_col
+672,RechargEastSurf,,ASP_col,ASP_col,RechargEastSurf_col,RechargWestSurf_col
+673,RechargNorthSubSurf,,ASP_col,ASP_col,RechrgDistNorthSubSurf_col,RechargNorthSurf_col
+674,RechargNorthSurf,,ASP_col,ASP_col,RechargNorthSurf_col,RechargSouthSurf_col
+675,RechargRateEastWTBL,,ASP_col,ASP_col,RechargRateEastWTBL_col,RechargRateWestWTBL_col
+676,RechargRateNorthWTBL,,ASP_col,ASP_col,RechargRateNorthWTBL_col,RechargRateSouthWTBL_col
+677,RechargRateSouthWTBL,,ASP_col,ASP_col,RechargRateSouthWTBL_col,RechargRateEastWTBL_col
+678,RechargRateWestWTBL,,ASP_col,ASP_col,RechargRateWestWTBL_col,RechargRateEastWTBL_col
+679,RechargSouthSubSurf,,ASP_col,ASP_col,RechrgDistSouthSubSurf_col,RechargSouthSurf_col
+680,RechargSouthSurf,,ASP_col,ASP_col,RechargSouthSurf_col,RechrgDistNorthSubSurf_col
+681,RechargWestSubSurf,,ASP_col,ASP_col,RechrgDistEastSubSurf_col,RechrgDistWestSubSurf_col
+682,RechargWestSurf,,ASP_col,ASP_col,RechargWestSurf_col,RechargEastSurf_col
+683,ReductVLsoiAirPM,,ASP_col,ASP_col,ReductVLsoiAirPM_vr,PSISoilMatricP_vr
+684,RootFracRemobilizableBiom,,ASP_col,ASP_col,RootFracRemobilizableBiom,doRemobilization_brch
+685,RootLenDensNLP,,ASP_col,ASP_col,RootLenDensPerPlant_pvr,Root2ndMeanLens_pvr
+686,RootLenPerP,,ASP_col,ASP_col,RootLenPerPlant_pvr,RootLenDensPerPlant_pvr
+687,RootPoreTortu4Gas,Power function of root porosity used to calculate root gaseous diffusivity.,RootPoreTortu4Gas_pft,RootPoreTortu4Gas_pft,RootPoreTortu4Gas_pft,RootCO2Autor_pvr
+688,RootPorosity,Root porosity,RootPorosity_pft,RootPorosity_pft,RootPorosity_pft,PSIRootOSMO_vr
+689,RoughHeight,,ASP_col,ASP_col,RoughHeight_col,LiveInterNodeHight_brch
+690,RunoffVelocity,,ASP_col,ASP_col,RunoffVelocityM_col,SurfRunoffPotentM_col
+691,SCO2,Leaf CO2 solubility,CO2Solubility_pft,CO2Solubility_pft,SCO2X,SCOS
+692,SDMX,,ASP_col,ASP_col,MaxSeedCMass_pft,DPMGS
+693,SED,,ASP_col,ASP_col,cumSed_Eros_2D,TSEDSO
+694,SL,,ASP_col,ASP_col,SSL2,SL_col
+695,SLA1,Leaf area:mass during growth,SLA1_pft,SLA1_pft,SYAL1,SHAL1
+696,SNL1,Internode length:mass during growth,NodeLenPergC_pft,NodeLenPergC_pft,SNL2,trcn_solsml_snvr
+697,SO2,Leaf O2 solubility,LeafO2Solubility_pft,LeafO2Solubility_pft,QSnowH2Oloss_col,SXOH2
+698,SOSGL,,ASP_col,ASP_col,OLSG,SOSG
+699,SSIN,,ASP_col,ASP_col,SnoDens_snvr,StalkMassDensity
+700,SSINN,,ASP_col,ASP_col,SnoDens_snvr,PSIMin4OrganExtens
+701,SSL1,,ASP_col,ASP_col,SSL2,TSedmErossLoss_lnds
+702,STMX,Maximum grain node number per branch,MaxPotentSeedNumber_pft,MaxPotentSeedNumber_pft,ZSTX,TMPX
+703,SWRadByCanP,Canopy absorbed shortwave radiation generally,RadSWbyCanopy_pft,RadSWbyCanopy_pft,RadSWbyCanopy_pft,RadPARbyCanopy_pft
+704,SWRadOnGrnd,,ASP_col,ASP_col,RadSWGrnd_col,LWRadGrnd
+705,SatHydroCondHrzn,,ASP_col,ASP_col,SatHydroCondHrzn_vr,SatHydroCondVert_vr
+706,SecndRootLen,Secondary root length,Root2ndMeanLensMin,Root2ndMeanLensMin,PetoleLensNode_brch,totRootLenDens_vr
+707,SecndRootRadius,,ASP_col,ASP_col,trcs_deadroot2soil_vr,Root2ndRadius_pvr
+708,SecndRootSpecLen,,ASP_col,ASP_col,PetoleLensNode_brch,CosineGrndSlope_col
+709,SecndRootXNumL,,ASP_col,ASP_col,CanopyNodulNonstElms_brch,RootNodulNonstElms_rpvr
+710,SecndRootXSecArea,,ASP_col,ASP_col,Air_Heat_Sens_store_col,Root2ndXSecArea_pft
+711,SeedArea,Seed surface area,SeedAreaMean_pft,SeedAreaMean_pft,SeedAreaMean_pft,RadianPerDegree
+712,SeedCMass,,ASP_col,ASP_col,SeedCMass_pft,MaxSeedCMass_pft
+713,SeedLength,Seed length,SeedMeanLen_pft,SeedMeanLen_pft,SeedMeanLen_pft,PetoleLensNode_brch
+714,SeedVolume,,ASP_col,ASP_col,SeedVolumeMean_pft,cumSed_Eros_2D
+715,SeedinDepth,Seeding depth,SeedDepth_pft,SeedDepth_pft,SeedDepth_pft,DENSICE
+716,SnoDensL,Snowpack density,SnoDens_snvr,SnoDens_snvr,SnoDens_snvr,SnowMassEnd_col
+717,SnoFalPrec,Snowfall,SnoFalPrec_col,SnoFalPrec_col,SnoFalPrec_col,RainFalPrec_col
+718,SnowDepth,Snowpack depth,SnowDepth_col,SnowDepth_col,SnowDepth_col,PhotoPeriodSens_pft
+719,SoiBulkDensity,,ASP_col,ASP_col,SoilBulkDensity_vr,SoiBulkDensityt0_vr
+720,SoiSurfRoughness,,ASP_col,ASP_col,SoiSurfRoughness,SoilSurfRoughnesst0_col
+721,SoiSurfRoughnesst0,,ASP_col,ASP_col,SoiSurfRoughness,SoilSurfRoughnesst0_col
+722,SoilDetachability4Erosion1,,ASP_col,ASP_col,SoilDetachability4Erosion1,SoilDetachability4Erosion2
+723,SoilHeatSrcDepth,,ASP_col,ASP_col,SoilHeatSrcDepth_col,PotentialSeedSites_brch
+724,SoilResit4RootPentration,,ASP_col,ASP_col,SoilResit4RootPentrate_vr,HourReq2InitSStor4LeafOut
+725,StemAreag,,ASP_col,ASP_col,SeedAreaMean_pft,StemArea_col
+726,TAMN,Daily minimum air temperature,TMPN,TMPN,Natomw,MainBranchNum_pft
+727,TAMX,,ASP_col,ASP_col,RMAX,TMPX
+728,TAU0,,ASP_col,ASP_col,TAU_RadThru,A0
+729,TAUP,Canopy PAR transmissivity (TAUP),RadPARLeafTransmis_pft,RadPARLeafTransmis_pft,CanopyHeight4WatUptake_pft,PlantPopulation_pft
+730,TAUR,,ASP_col,ASP_col,TAU_RadThru,TAU_DirectRTransmit
+731,TAUS,Fraction of radiation intercepted by canopy layer (TAUS),TAU_DirectRTransmit,TAU_DirectRTransmit,StomatalStress_pft,StalkStrutElms_pft
+732,TBCO2,,ASP_col,ASP_col,PBOT_col,RootCO2Emis2Root_col
+733,TBION,,ASP_col,ASP_col,TION,TIONIN
+734,TCA,,ASP_col,ASP_col,ATCA_col,ATCAI_col
+735,TCC,,ASP_col,ASP_col,CCACQ,CKC
+736,TCG,Canopy growth temperature,TKGroth_pft,TKGroth_pft,TCNDG,TCGroth_pft
+737,TCNET,,ASP_col,ASP_col,ShutRutNonstElmntConducts_pft,Eco_Heat_Latent_col
+738,TCO2A,,ASP_col,ASP_col,ATCA_col,TCA_col
+739,TCO2P,,ASP_col,ASP_col,DPCO2,XKCO2_pft
+740,TCO2S,,ASP_col,ASP_col,SCO2X,RootCO2Emis2Root_col
+741,TCO2T,,ASP_col,ASP_col,TCGroth_pft,TC2K
+742,TCSnow,Snow temperature (TCSnow),TCSnow_snvr,TCSnow_snvr,TCSnow_snvr,VcumWatSnow_col
+743,TCX,The threshold temperature for autumn leafoff/hardening,TC4LeafOff_pft,TC4LeafOff_pft,RCCX,RCCX
+744,TCZ,"The threshold temperature for spring leafout/dehardening, often abbreviated as TCZ,",TC4LeafOut_pft,TC4LeafOut_pft,RCCZ,RCCZ
+745,TDCN4,,ASP_col,ASP_col,TDCN4,TCNDG
+746,TDCNO,,ASP_col,ASP_col,TDCNO,NoduleNonstructCconc_pft
+747,TDCO2,,ASP_col,ASP_col,DPCO2,TDCNO
+748,TDFOME,,ASP_col,ASP_col,EOMD,EOMF
+749,TDHUM,,ASP_col,ASP_col,TDHUM,DHUM
+750,TDIRI,,ASP_col,ASP_col,TDIRI,DIRRI
+751,TDPRC,,ASP_col,ASP_col,TDPRC,NetPrimProduct_pft
+752,TDRAD,,ASP_col,ASP_col,TDRAD,DRAD
+753,TDTPN,,ASP_col,ASP_col,TDTPN,TDTPX
+754,TDWND,,ASP_col,ASP_col,TDWND,DWIND
+755,TENGYC,,ASP_col,ASP_col,TdegCCanopy_pft,TCNDG
+756,TESN0,,ASP_col,ASP_col,SETN,SeedTempSens_pft
+757,TESNC,,ASP_col,ASP_col,SETC,SETN
+758,TEUPTK,,ASP_col,ASP_col,RootNutUptake_pvr,DeltaTKC_pft
+759,TEVAPP,,ASP_col,ASP_col,EvapTransLHeat_pft,VHeatCapCanopy_pft
+760,TFLWCI,,ASP_col,ASP_col,TLitrIceFlxThaw_col,WatFLo2LitR_col
+761,TFNQ,Constraints of temperature and water potential on microbial activity,TSens4MicbGrwoth_vr,TSens4MicbGrwoth_vr,QNTM,CNLF_pft
+762,TGH,,ASP_col,ASP_col,TCGroth_pft,TKGroth_pft
+763,TGPP,,ASP_col,ASP_col,PPI_pft,PPX_pft
+764,TGSTGF,Normalized node number during reproductive growth stages,ReprodNodeNumNormByMatrgrp_brch,ReprodNodeNumNormByMatrgrp_brch,LSG_pft,TCGroth_pft
+765,TGSTGI,Normalized node number during vegetative growth stages,TotalNodeNumNormByMatgrp_brch,TotalNodeNumNormByMatgrp_brch,TWILGT,ALTIG
+766,TH2GZ,,ASP_col,ASP_col,ThetaH2OZ_vr,Z2SG
+767,THETPM,,ASP_col,ASP_col,THETPI,HighTempLimitSeed_pft
+768,THETY,,ASP_col,ASP_col,THETPI,THETW_vr
+769,THFLXC,,ASP_col,ASP_col,TSHX_col,TLitrIceFlxThaw_col
+770,THRE,,ASP_col,ASP_col,RAcetateUptkHeter_vr,THETW_vr
+771,THSX,Sky longwave radiation,SkyLonwRad_col,SkyLonwRad_col,TSHX_col,ZSTX
+772,THVSTE,,ASP_col,ASP_col,ThetaSat_vr,THETW_vr
+773,THeatRootUptake,,ASP_col,ASP_col,RootNH4Uptake_pft,TPlantRootH2OUptake_col
+774,TKC,,ASP_col,ASP_col,TC2K,TKC_pft
+775,TKCZ,,ASP_col,ASP_col,CZKM,TC2K
+776,TKG,Canopy growth temperature or TKG,TCGroth_pft,TCGroth_pft,TKGroth_pft,TKC_pft
+777,TKSD,,ASP_col,ASP_col,TKSD_col,FSTK
+778,TKSnow,"Snow temperature, also referred to as TKSnow,",TKSnow_snvr,TKSnow_snvr,TKSnow_snvr,WatFlowInSnowM_snvr
+779,TLE,,ASP_col,ASP_col,LtHeatIceMelt,TileWaterTable_col
+780,TLEC,,ASP_col,ASP_col,LtHeatIceMelt,TCChill4Seed_pft
+781,TLEX,,ASP_col,ASP_col,TLEX_col,ExtWaterTable_col
+782,TLitrIceFlxThaw,,ASP_col,ASP_col,TLitrIceFlxThaw_col,TLitrIceHeatFlxFrez_col
+783,TLitrIceHeatFlxFrez,,ASP_col,ASP_col,TLitrIceHeatFlxFrez_col,TLitrIceFlxThaw_col
+784,TNBP,,ASP_col,ASP_col,TDTPN,TPIN
+785,TNH3C,,ASP_col,ASP_col,NH3Dep2Can_brch,NonstCMinConc2InitBranch_pft
+786,TNPP,,ASP_col,ASP_col,PlantinDepz_pft,PPI_pft
+787,TOMT,Total microbial C,tOMActC_vr,tOMActC_vr,RootStrutElms_pft,iPlantRootState_pft
+788,TONT,Total microbial N,rNCOMC_ave,rNCOMC_ave,TION,MinNonstC2InitRoot_pft
+789,TOPT,,ASP_col,ASP_col,iPlantRootState_pft,iPlantShootState_pft
+790,TRAD,Total daily solar radiation (TRAD),TRAD_col,TRAD_col,TDRAD,TAU_RadThru
+791,TRAI,Total daily precipitation,RAIN,RAIN,HeatIrrigation_vr,ThetaAir_vr
+792,TRAU,,ASP_col,ASP_col,TAU_RadThru,TAU_DirectRTransmit
+793,TRCO2,Total solute CO2 transformation,TProd_CO2_geochem_soil_vr,TProd_CO2_geochem_soil_vr,RootCO2Ar2Root_col,RootCO2Ar2Root_vr
+794,TRFE3,Total solute FeOH3 transformation,TRChem_FeO3H3_soil_vr,TRChem_FeO3H3_soil_vr,Tref,FERT
+795,TRH1B,"Total solute HPO4 transformation band, referred to as TRH1B,",trcn_RChem_band_soil_vr,trcn_RChem_band_soil_vr,PARTS_brch,PBOT_hrly
+796,TRH1P,Total solute HPO4 transformation non-band,TRChem_KSO4_soil_soil_vr,TRChem_KSO4_soil_soil_vr,PART1X,DPH1P
+797,TRH2B,Total solute H2PO4 transformation band,TRChem_H2O_vr,TRChem_H2O_vr,TRChem_H2O_vr,ThetaH2OZ_vr
+798,TRH2O,Total solute H2O transformation,TRChem_H2O_vr,TRChem_H2O_vr,TRChem_H2O_vr,ThetaH2OZ_vr
+799,TRH2P,Total solute H2PO4 transformation non-band,TRChem_H2O_vr,TRChem_H2O_vr,PART2X,TRChem_H2O_vr
+800,TRHCO,Total solute HCO3 transformation,TRChem_HCO3_col,TRChem_HCO3_col,RechargBottom_col,TRChem_HCO3_col
+801,TRKAS,Total solute KSO4 transformation,TRChem_KSO4_soil_soil_vr,TRChem_KSO4_soil_soil_vr,RTSK,TKS_vr
+802,TRN,,ASP_col,ASP_col,TORGN,rCNNonstRemob_pft
+803,TRN2B,,ASP_col,ASP_col,BranchNumber_pft,rCNNonstRemob_pft
+804,TRN3B,Total solute NH3 transformation band,TRChem_sol_NH3_soil_vr,TRChem_sol_NH3_soil_vr,BranchNumber_pft,RNO3UptkBandAutor_vr
+805,TRN3G,,ASP_col,ASP_col,TORGN,CNGR_pft
+806,TRN3S,Total solute NH3 transformation (non-band),TRChem_sol_NH3_soil_vr,TRChem_sol_NH3_soil_vr,trcs_TransptMicP_3D,TCSnow_snvr
+807,TRN4B,Total solute NH4 transformation band,trcn_GeoChem_soil_vr,trcn_GeoChem_soil_vr,RNH4UptkBandAutor_vr,BranchNumber_pft
+808,TRN4S,Total solute NH4 transformation non-band,trcn_GeoChem_soil_vr,trcn_GeoChem_soil_vr,TSens4MicbGrwoth_vr,TCSnow_snvr
+809,TRNO2,,ASP_col,ASP_col,RN2ONitProd_vr,Root2ndLen_rpvr
+810,TRNO3,Total solute NO3 transformation non-band,TRChem_sol_NH3_soil_vr,TRChem_sol_NH3_soil_vr,CminNO3Root_pft,TORGN
+811,TRNOB,Total solute NO3 transformation band,TRChem_sol_NH3_soil_vr,TRChem_sol_NH3_soil_vr,rCNNonstRemob_pft,TBION_vr
+812,TRXAL,Total adsorbed Al transformation,TRChem_Al_sorbed_soil_vr,TRChem_Al_sorbed_soil_vr,trcSalt_AquaADV_Snow2Litr_flx,trcg_DisolEvap_Atm2Litr_flx
+813,TRXAL2,Total adsorbed AlOH2 transformation,TRChem_AlO2H2_sorbed_soil_vr,TRChem_AlO2H2_sorbed_soil_vr,PART2X,trcSalt_AquaADV_Snow2Litr_flx
+814,TRXCA,Total adsorbed Ca transformation,TRChem_Ca_sorbed_soil_vr,TRChem_Ca_sorbed_soil_vr,trcSalt_Mac2MicPore_flx_vr,RCCXR
+815,TRXHC,Total adsorbed COOH transformation,TRChem_HCO3_sorbed_soil_vr,TRChem_HCO3_sorbed_soil_vr,trcx_TRSoilChem_vr,RCCXR
+816,TRXHY,Total adsorbed H transformation,TRChem_H_p_sorbed_soil_vr,TRChem_H_p_sorbed_soil_vr,tRHydlySoprtOM_vr,TMP_hrly
+817,TRXKA,Total adsorbed K transformation,TRChem_K_sorbed_soil_vr,TRChem_K_sorbed_soil_vr,PART1X,PART2X
+818,TRXMG,Total adsorbed Mg transformation,TRChem_Mg_sorbed_soil_vr,TRChem_Mg_sorbed_soil_vr,trcg_gasml_vr,FRTX
+819,TRXNA,Total adsorbed Na transformation,TRChem_Na_sorbed_soil_vr,TRChem_Na_sorbed_soil_vr,trcn_AquaADV_Snow2Litr_flx,trcn_AquaAdv_flx_snvr
+820,TSH,,ASP_col,ASP_col,ShootStrutElms_brch,ShootStrutElms_pft
+821,TSHC,,ASP_col,ASP_col,TSHX_col,SETC
+822,TSHX,,ASP_col,ASP_col,TSHX_col,ZSTX
+823,TUPCHS,,ASP_col,ASP_col,rPCHusk_pft,rNCHusk_pft
+824,TUPH2B,,ASP_col,ASP_col,DPH2P,RootH2PO4Uptake_pft
+825,TUPH2P,,ASP_col,ASP_col,DPH2P,rPCHusk_pft
+826,TUPHGS,,ASP_col,ASP_col,HuskStrutElms_pft,rPCHusk_pft
+827,TUPN2S,,ASP_col,ASP_col,ShutRutNonstElmntConducts_pft,PlantO2Stress_pft
+828,TUPN3B,,ASP_col,ASP_col,BranchNumber_pft,RNO3UptkBandAutor_vr
+829,TUPN3S,,ASP_col,ASP_col,ShutRutNonstElmntConducts_pft,NodulStrutElms_pft
+830,TUPNF,,ASP_col,ASP_col,PlantN2Fix_CumYr_pft,CNLF_pft
+831,TUPNH4,,ASP_col,ASP_col,RootNH4Uptake_pft,THIN_pft
+832,TUPNHB,,ASP_col,ASP_col,BranchNumber_pft,THIN_pft
+833,TUPNO3,,ASP_col,ASP_col,RootNO3Uptake_pft,RootOUlmNutUptake_pvr
+834,TUPNOB,,ASP_col,ASP_col,RootOUlmNutUptake_pvr,RootNutUptake_pvr
+835,TUPOXP,,ASP_col,ASP_col,GROUPX_pft,PPX_pft
+836,TUPOXS,,ASP_col,ASP_col,NumRootAxes_pft,GROUPX_pft
+837,TWIND,Total daily wind travel,TWIND_col,TWIND_col,WIND,DWIND
+838,TZUPFX,,ASP_col,ASP_col,GROUPX_pft,PPX_pft
+839,TairK,,ASP_col,ASP_col,HeatIrrigation_vr,TairK_col
+840,TairKClimMean,,ASP_col,ASP_col,TairKClimMean_col,VLHeatCapLitRMin
+841,TortMacPM,,ASP_col,ASP_col,TortMacPM_vr,TortMicPM_vr
+842,TortMicPM,,ASP_col,ASP_col,TortMicPM_vr,TortMacPM_vr
+843,UCH4F,,ASP_col,ASP_col,CCHU,Hours4LeafOff_brch
+844,UCH4G,Total soil CH4 flux,CH4byFire_CumYr_col,CH4byFire_CumYr_col,CCHU,CHSG
+845,UCO2F,,ASP_col,ASP_col,CCOU,Qrunoff_CumYr_col
+846,UCO2G,,ASP_col,ASP_col,H2GOU,CCOU
+847,UCO2S,Total soil DIC,DIC_mass_col,DIC_mass_col,SCO2X,H2OLoss_CumYr_col
+848,UCOP,Total soil autotrophic respiration,RootResp_CumYr_col,RootResp_CumYr_col,cpo,Eco_GPP_CumYr_col
+849,UDICD,Total subsurface DIC flux,HydroSubsDICFlx_col,HydroSubsDICFlx_col,DUKI,DCKI
+850,UDICQ,Total surface DIC flux,HydroSufDICFlx_col,HydroSufDICFlx_col,DUKI,DCKI
+851,UDIND,The term 'total subsurface DIN flux',HydroSubsDINFlx_col,HydroSubsDINFlx_col,DWIND,DUKI
+852,UDINQ,The total surface dissolved inorganic nitrogen (DIN) flux,HydroSufDINFlx_CumYr_col,HydroSufDINFlx_CumYr_col,DWIND,DUKI
+853,UDIPD,,ASP_col,ASP_col,DISP_3D,DUKI
+854,UDIPQ,Total surface DIP (Dissolvable Inorganic Phosphorus) flux,HydroSufDIPFlx_CumYr_col,HydroSufDIPFlx_CumYr_col,DUKI,DISP_3D
+855,UDOCD,Total subsurface DOC flux,HydroSubsDOCFlx_col,HydroSubsDOCFlx_col,GDD_col,HydroCond_3D
+856,UDOCQ,Total Surface Dissolved Organic Carbon (DOC) flux,HydroSufDOCFlx_col,HydroSufDOCFlx_col,CCOU,CCAOQ
+857,UDOND,Total Subsurface DON Flux,HydroSubsDONFlx_col,HydroSubsDONFlx_col,HydroCond_3D,RootNO3DmndBand_pvr
+858,UDONQ,Total surface DON flux,HydroSufDONFlx_CumYr_col,HydroSufDONFlx_CumYr_col,HUDN_col,TOMOU_lnds
+859,UDOPD,Total subsurface DOP flux,HydroSubsDOPFlx_col,HydroSubsDOPFlx_col,HydroCond_3D,DPH2O
+860,UDOPQ,Total surface DOP Flux,HydroSufDOPFlx_CumYr_col,HydroSufDOPFlx_CumYr_col,POROQ,DPH2O
+861,UDRAIN,"Total water drainage below root zone, also known as deep percolation,",QDrain_col,QDrain_col,RAIN,RNH3OxidAutorBand_vr
+862,UEVAP,"Total evaporation, or evapotranspiration,",QEvap_CumYr_col,QEvap_CumYr_col,CEVAP,HeatEvapAir2Surf_col
+863,UFERTN,Total fertilizer nitrogen (N) amendment,FertN_Flx_CumYr_col,FertN_Flx_CumYr_col,Tref,FERT
+864,UFERTP,Total fertilizer P amendment,FerPFlx_CumYr_col,FerPFlx_CumYr_col,MatureGroup_pft,Tref
+865,UH2GG,,ASP_col,ASP_col,H2GOU,HGSG
+866,UION,Total soil ion content,UION_col,UION_col,TIONOU,UION_col
+867,UIONOU,Total subsurface ion flux,TIONOU,TIONOU,TIONOU,UION_col
+868,UN2GG,Total soil N2 flux,TGasN_lnd,TGasN_lnd,GN2X,SN2GX
+869,UN2GS,Total N2 fixation,PlantN2Fix_CumYr_pft,PlantN2Fix_CumYr_pft,SN2GX,SNL2
+870,UN2OF,Total N2O flux from fire,N2ObyFire_CumYr_col,N2ObyFire_CumYr_col,trcn_FloXSurRunoff_2D,DOM_FloXSurRunoff_2DH
+871,UN2OG,Total soil N2O flux,TGasN_lnd,TGasN_lnd,H2GOU,ONSG
+872,UNH3F,,ASP_col,ASP_col,QflxSurfRunoffM_2DH,SNH3X
+873,UNH3G,Total soil NH3 flux,tNH4_col,tNH4_col,SNH3X,H2GOU
+874,UNH4,Total soil NH4 + NH3 content,tNH4_col,tNH4_col,CNNU,CNH4_vr
+875,UNO3,Total soil NO3 + NO2 content,tNO3_col,tNO3_col,TIONOU,NU_col
+876,UORGC,Total humus C,tHumOM_col,tHumOM_col,FORGC,Eco_AutoR_CumYr_col
+877,UORGF,,ASP_col,ASP_col,trcg_FloXSurRunoff_2D,FORGC
+878,UORGN,,ASP_col,ASP_col,TORGN,GroundSurfAzimuth_col
+879,UORGP,Total humus P,tHumOM_col,tHumOM_col,GROUPX_pft,TORGP
+880,UOXYF,Total O2 flux from fire,O2byFire_CumYr_col,O2byFire_CumYr_col,OXYGOU,FXFY
+881,UOXYG,Total soil O2 flux,TSoilO2G_lnd,TSoilO2G_lnd,OXYGOU,SOXYX
+882,UPH1P,,ASP_col,ASP_col,DPH1P,HPKU
+883,UPH2P,Total root uptake of PO4,RootH2PO4Uptake_pft,RootH2PO4Uptake_pft,DPH2P,HPKU
+884,UPKMPO,Km for root PO4 uptake,KmPO4Root_pft,KmPO4Root_pft,RootUptk_P_CumYr_pft,CPKM
+885,UPKMZH,Km for root NH4 uptake,KmNH4Root_pft,KmNH4Root_pft,ZHKM,HPKU
+886,UPKMZO,,ASP_col,ASP_col,ZOKU,RootOUlmNutUptake_pvr
+887,UPMNPO,Minimum PO4 concentration for root NH4 uptake,CMinPO4Root_pft,CMinPO4Root_pft,PlantPopu_col,PSICanopyOsmo_pft
+888,UPMNZH,,ASP_col,ASP_col,HPMN,MainBranchNum_pft
+889,UPMNZO,The minimum concentration of nitrate (NO3) required in root zone for root ammonium (NH4) uptake,CminNO3Root_pft,CminNO3Root_pft,ZOMN,cumSnowDepz_col
+890,UPMXPO,,ASP_col,ASP_col,GROUPX_pft,PPX_pft
+891,UPMXZH,The maximum rate at which roots can take up ammonium (NH4) from the soil.,VmaxNH4Root_pft,VmaxNH4Root_pft,HPMX,CPMX
+892,UPMXZO,,ASP_col,ASP_col,ZOMX,GROUPX_pft
+893,UPNF,Total root N2 fixation,RootN2Fix_pft,RootN2Fix_pft,PlantN2Fix_CumYr_pft,NumOfBranches_pft
+894,UPNH4,Total root uptake of NH4,RootNH4Uptake_pft,RootNH4Uptake_pft,DPN4,HPKU
+895,UPNO3,,ASP_col,ASP_col,CPOOL3_node,PlantPopu_col
+896,UPO4,Total soil PO4 content,tHxPO4_col,tHxPO4_col,SPPO4,RootHPO4Uptake_pft
+897,UPO4F,Total PO4 flux from fire,PO4byFire_CumYr_col,PO4byFire_CumYr_col,RootHPO4Uptake_pft,SPPO4
+898,UPOME,Total root uptake,TPlantRootH2OUptake_col,TPlantRootH2OUptake_col,RootMycoExudEUptk_pvr,RootMycoExudElms_pft
+899,UPP4,Total soil precipitated P,tXPO4_col,tXPO4_col,SPPO4,PPI_pft
+900,URAIN,Total precipitation,QRain_CumYr_col,QRain_CumYr_col,RAIN,RAINH
+901,URSDC,Total litter carbon (URSDC),tLitrOM_col,tLitrOM_col,RechrgDistSouthSubSurf_col,RechrgDistEastSubSurf_col
+902,URSDN,Total litter N,LitRMStoreLndscap,LitRMStoreLndscap,SurfGas_lnd,SnoDens_snvr
+903,URSDP,,ASP_col,ASP_col,PSD_vr,trcs_SubsurTransp_flx_2DH
+904,URUN,"Total surface runoff, commonly referred to as 'runoff',",Qrunoff_CumYr_col,Qrunoff_CumYr_col,CRUN,QRunSurf_col
+905,USEDOU,Total sediment subsurface flux,TSedmErossLoss_lnds,TSedmErossLoss_lnds,cumSed_Eros_2D,OMBioResdu_Eros_2D
+906,UVLWatMicP,Total soil water content,WatMass_col,WatMass_col,VLWatMicP_vr,VLWatMicPM_vr
+907,UVOLO,Total subsurface water flux,H2OLoss_CumYr_col,H2OLoss_CumYr_col,SolarNoonHour_col,UION_col
+908,UXCSN,Total litterfall carbon,tLitrOM_col,tLitrOM_col,CNNU,SineSunInclAnglNxtHour_col
+909,UXPSN,Total Litterfall P pertains to the total annual Phosphorus (P) content as measured in litterfall.,tXPO4_col,tXPO4_col,trcs_SubsurTransp_flx_2DH,SXH2P
+910,UXZSN,,ASP_col,ASP_col,ZSTX,ZNSG
+911,VCGR4,VCGR4,ShootStrutElms_brch,ShootStrutElms_brch,GKC4_vr,CMG_vr
+912,VCGRO,,ASP_col,ASP_col,CORGCI_vr,ORGCX_vr
+913,VCH4F,,ASP_col,ASP_col,CNH4_vr,CFEOH_vr
+914,VCMX,The maximum carboxylation rate of the enzyme Rubisco. It,XKCO2_pft,XKCO2_pft,VMXC,VMXC
+915,VCMX4,,ASP_col,ASP_col,VMXC,VMX4
+916,VCO2F,VCO2F,DPC1P,DPC1P,CFOSC_vr,CO2FixCL_pft
+917,VGRO,Carboxylation rate,CO2lmtRubiscoCarboxyRate_node,CO2lmtRubiscoCarboxyRate_node,ORGCX_vr,LOGPOROS_vr
+918,VGRO4,C4 carboxylation rate,CO2lmtPEPCarboxyRate_node,CO2lmtPEPCarboxyRate_node,ORGCX_vr,LOGPOROS_vr
+919,VHeatCapCanP,,ASP_col,ASP_col,VHeatCapCanopy_pft,VHeatCapacity_vr
+920,VHeatCapLitR,Threshold surface litter heat capacity,VHeatCapLitRMin_col,VHeatCapLitRMin_col,TLIceThawMacP_vr,VLHeatCapLitRMin
+921,VLHeatCapSnow,Snowpack heat capacity,VLHeatCapSnow_snvr,VLHeatCapSnow_snvr,VLHeatCapSnow_snvr,VLSnowHeatCapM_snvr
+922,VLNHB,NH4 band volume fraction,BandThicknessNH4_vr,BandThicknessNH4_vr,IFNHB_col,BandWidthNH4_vr
+923,VLNOB,NO3 band volume fraction,BandDepthNO3_col,BandDepthNO3_col,iPondBotLev_col,nsnol_col
+924,VLPO4,PO4 non-band volume fraction,BandThicknessPO4_vr,BandThicknessPO4_vr,CPO4_vr,VPA_col
+925,VLPOB,,ASP_col,ASP_col,iPondBotLev_col,PBOT_col
+926,VLSnowt0,,ASP_col,ASP_col,VLWatSnow_snvr,WatFlowInSnowM_snvr
+927,VLWatMacPM,Macropore water flux,WaterFlow2MacPM_3D,WaterFlow2MacPM_3D,VLWatMacPM_vr,VLWatMacP_vr
+928,VLWatMacPM,Macropore water flux,WaterFlow2MacPM_3D,WaterFlow2MacPM_3D,VLWatMacPM_vr,VLWatMacP_vr
+929,VLWatMicPM,The micropore water flux,WaterFlow2MicPM_3D,WaterFlow2MicPM_3D,VLWatMicPM_vr,XVLMobileWatMicPM
+930,VLWatMicPM,The micropore water flux,WaterFlow2MicPM_3D,WaterFlow2MicPM_3D,VLWatMicPM_vr,XVLMobileWatMicPM
+931,VLitR,,ASP_col,ASP_col,SILT_vr,VLitR_col
+932,VLsoiAirPM,Soil air content,VLsoiAirP_vr,VLsoiAirP_vr,VLsoiAirPM_vr,PSISoilMatricP_vr
+933,VN2OF,Plant N2O emission from fire,N2ObyFire_CumYr_pft,N2ObyFire_CumYr_pft,RootN2Fix_vr,EN2F
+934,VNH3F,The amount of Ammonia (NH3) released into the atmosphere as a result of fire or burning in vegetation area.,NH3byFire_CumYr_pft,NH3byFire_CumYr_pft,SNH3X,ZNFNI_vr
+935,VOLQ,Soil water volume occupied by microbial biomass,VWatMicrobAct_vr,VWatMicrobAct_vr,VLS_col,DV_col
+936,VOMX,Rubisco oxygenase activity,VmaxRubOxyRef_pft,VmaxRubOxyRef_pft,VMXO,VMXO
+937,VOXYF,VOXYF,LitrfalStrutElms_vr,LitrfalStrutElms_vr,FXFY,SOXYX
+938,VPA,Vapor concentration,VPA_col,VPA_col,CEVAP,VapXAir2Canopy_pft
+939,VPK,Vapor pressure,VPK_col,VPK_col,VPK_col,GKCK_vr
+940,VPO4F,Release of phosphate or PO4 from plant material during a fire event. It's a specific form of nutrient release during biomass burning and plays a role in biogeochemical cycles.,PO4byFire_CumYr_pft,PO4byFire_CumYr_pft,CPO4_vr,VmaxPO4Root_pft
+941,VRNF,Cold requirement for autumn leafoff/hardening (VRNF),Hours4LeafOff_brch,Hours4LeafOff_brch,ZNFNI_vr,ZNFN0_vr
+942,VRNL,"The total number of hours that the temperature stays above a certain threshold, which",TDTPN,TDTPN,trcs_VLN_vr,VLSnoDWIprev_snvr
+943,VRNS,Heat requirement for spring leafout/dehardening,Hours4Leafout_brch,Hours4Leafout_brch,RSN_vr,VLDrySnoWE_snvr
+944,VRNX,Number of hours below set temperature required for autumn leafoff/hardening,HourReq4LeafOff_brch,HourReq4LeafOff_brch,RSN_vr,RNH3oxi_vr
+945,VRNY,The initial heat requirement for spring leafout/dehardening,Hours4LenthenPhotoPeriod_brch,Hours4LenthenPhotoPeriod_brch,RSN_vr,VLDrySnoWE_snvr
+946,VRNZ,VRNZ,trcs_solcoef_col,trcs_solcoef_col,ZNFNI_vr,ZNFN0_vr
+947,VSTG,"Refer to the number of leaves in a plant or crop, which",NP0_col,NP0_col,ZVSG,TAVG1
+948,VSTGX,Number of leaves present on the plant at the time of floral initiation.,LeafNumberAtFloralInit_brch,LeafNumberAtFloralInit_brch,ZSTX,GVMX
+949,VWatLitRHoldCapcity,,ASP_col,ASP_col,VWatLitRHoldCapcity_col,VHeatCapLitRMin_col
+950,VWatStoreCapSurf,,ASP_col,ASP_col,VWatStoreCapSurf_col,Root1stXSecArea_pft
+951,VapXAir2CanG,Total canopy evaporation (VapXAir2CanG),VapXAir2Canopy_col,VapXAir2Canopy_col,VapXAir2Canopy_pft,VapXAir2Canopy_col
+952,VapXAir2GSurf,Negative of total evaporation at ground surface,VapXAir2GSurf_col,VapXAir2GSurf_col,VapXAir2GSurf_col,RGasTranspFlxPrev_vr
+953,VapXAir2PCan,Negative of canopy evaporation,VapXAir2Canopy_pft,VapXAir2Canopy_pft,VapXAir2Canopy_pft,VapXAir2Canopy_col
+954,VaporDiffusivityLitR,Water vapor diffusivity,WGSG,WGSG,VaporDiffusivityLitR_col,WVapDifusvityAir_col
+955,VcumDrySnoWE,Snow volume in snowpack (water equivalent),VcumDrySnoWE_col,VcumDrySnoWE_col,VcumDrySnoWE_col,NumerSolidThermCond_vr
+956,VcumIceSnow,Ice volume in snowpack,VcumIceSnow_col,VcumIceSnow_col,VcumIceSnow_col,VcumSnowWE_col
+957,VcumSnoDWI,Snowpack volume,VLSnoDWIprev_snvr,VLSnoDWIprev_snvr,VcumSnoDWI_col,VcumIceSnow_col
+958,VcumWatSnow,"The volume of water present in the snowpack, including both liquid water and ice.",VcumWatSnow_col,VcumWatSnow_col,VcumWatSnow_col,VcumSnowWE_col
+959,WDLF,"The leaf length to width ratio, often represented as WDLF,",rLen2WidthLeaf_pft,rLen2WidthLeaf_pft,FDML,FL
+960,WDNHB,Width of NH4 band,BandWidthNH4_vr,BandWidthNH4_vr,BandWidthNH4_vr,WINDH
+961,WDNOB,,ASP_col,ASP_col,BandWidthNO3_vr,RootNO3DmndBand_pvr
+962,WDPOB,,ASP_col,ASP_col,BandDepthPO4_col,BandWidthPO4_vr
+963,WDPTH,Depth of irrigation application,WDPTH,WDPTH,WDPTH,DWPTH
+964,WDPTHD,,ASP_col,ASP_col,WDPTH,DWPTH
+965,WFR,The constraint of oxygen concentration to root respiration.,RootCO2Autor_pvr,RootCO2Autor_pvr,XGridSurfRunoff_2DH,QflxSurfRunoffM_2DH
+966,WGLFE,WGLFE,LiterfalOrgM_col,LiterfalOrgM_col,FESG,FL
+967,WGLFEX,,ASP_col,ASP_col,FESG,ENFX
+968,WGLFLE,,ASP_col,ASP_col,FL,THeatFlowCellSoil_vr
+969,WGLFT,Total leaf mass,tCanLeafC_cl,tCanLeafC_cl,TWILGT,LSG_pft
+970,WGNODE,,ASP_col,ASP_col,SnowEngyEnd_col,SnowEngyBeg_col
+971,WGSGA,Water vapor diffusivity,WGSG,WGSG,WGSG,CGSG
+972,WGSGL,Water vapor diffusivity,WGSG,WGSG,WGSG,CGSG
+973,WGSHE,,ASP_col,ASP_col,WGSG,HGSG
+974,WGSHEXE,,ASP_col,ASP_col,WindMesureHeight_col,FESG
+975,WQRH,Runoff from surface water,QRunSurf_col,QRunSurf_col,IWTHR,THW_vr
+976,WSLF,Layer leaf protein C,LeafProteinCNode_brch,LeafProteinCNode_brch,FL,GasDiff2Surf_flx_col
+977,WSRTL,,ASP_col,ASP_col,LitrfalStrutElms_vr,trcSalt_solml_vr
+978,WSSHE,Layer sheath protein C,PetoleProteinCNode_brch,PetoleProteinCNode_brch,TSedmErossLoss_lnds,secsphour
+979,WSTR,"An indicator of water stress in the canopy of a plant, measured by the number of hours that the PSILT (plant's soil moisture level)",HoursTooLowPsiCan_pft,HoursTooLowPsiCan_pft,RTSK,TSens4MicbGrwoth_vr
+980,WTEARBE,Branch ear element,EarStrutElms_brch,EarStrutElms_brch,ExtWaterTable_col,RechargRateWestWTBL_col
+981,WTEARE,,ASP_col,ASP_col,RAcetateUptkHeter_vr,RechargRateWestWTBL_col
+982,WTGRBE,The weight of a grain element on a branch,GrainStrutElms_brch,GrainStrutElms_brch,RechargRateWestWTBL_col,ReserveBiomGrowthYld_pft
+983,WTGRE,Canopy grain element,GrainStrutElms_pft,GrainStrutElms_pft,RechargRateWestWTBL_col,THETW_vr
+984,WTHSKBE,WTHSKBE,LiterfalOrgM_col,LiterfalOrgM_col,HuskStrutElms_brch,SenecStalkStrutElms_brch
+985,WTHSKE,,ASP_col,ASP_col,THETW_vr,SenecStalkStrutElms_brch
+986,WTLFBE,Branch leaf element,LeafStrutElms_brch,LeafStrutElms_brch,TileWaterTable_col,rLen2WidthLeaf_pft
+987,WTLFE,,ASP_col,ASP_col,rLen2WidthLeaf_pft,THeatFlowCellSoil_vr
+988,WTNDBE,Branch nodule element,CanopyNodulStrutElms_brch,CanopyNodulStrutElms_brch,TDWND,WatSnoByRedist_2DH
+989,WTNDE,Root total nodule mass,NodulStrutElms_pft,NodulStrutElms_pft,TDWND,WindSpeedAtm_col
+990,WTNDLE,Root layer nodule element,RootNodulStrutElms_rpvr,RootNodulStrutElms_rpvr,TDWND,DepzIntWTBL_col
+991,WTRSVBE,,ASP_col,ASP_col,TSens4MicbGrwoth_vr,THETW_vr
+992,WTRSVE,,ASP_col,ASP_col,THETW_vr,TKS_ref_vr
+993,WTRT1E,Root layer element primary axes,RootMyco1stStrutElms_rpvr,RootMyco1stStrutElms_rpvr,THETW_vr,RAcetateUptkHeter_vr
+994,WTRT2E,The secondary axes of an element in the root layer.,RootMyco2ndStrutElms_rpvr,RootMyco2ndStrutElms_rpvr,THETW_vr,RAcetateUptkHeter_vr
+995,WTRTA,,ASP_col,ASP_col,ThetaSat_vr,TAU_DirectRTransmit
+996,WTRTE,Plant root element,RootElms_pft,RootElms_pft,THETW_vr,RAcetateUptkHeter_vr
+997,WTRTL,Root layer structural C,RootMycoActiveBiomC_pvr,RootMycoActiveBiomC_pvr,TWILGT,THETW_vr
+998,WTRTSE,Plant root structural element,RootStrutElms_pft,RootStrutElms_pft,THETW_vr,EarStrutElms_pft
+999,WTRVE,Stored nonstructural element,SeasonalNonstElms_pft,SeasonalNonstElms_pft,THETW_vr,THW_vr
+1000,WTRVX,Plant stored nonstructural C at planting,SeedCPlanted_pft,SeedCPlanted_pft,THW_vr,VOLTX_vr
+1001,WTSHEBE,Branch sheath element,PetoleStrutElms_brch,PetoleStrutElms_brch,SeedNumSet_brch,PotentialSeedSites_brch
+1002,WTSHEE,,ASP_col,ASP_col,PotentialSeedSites_brch,SeedTempSens_pft
+1003,WTSHTA,The landscape average canopy shoot C,AvgCanopyBiomC2Graze_pft,AvgCanopyBiomC2Graze_pft,THeatSnowThaw_col,ThetaSat_vr
+1004,WTSHTBE,Branch shoot C,ShootStrutElms_brch,ShootStrutElms_brch,THETW_vr,THeatSnowThaw_col
+1005,WTSTDE,,ASP_col,ASP_col,StandDeadStrutElms_pft,TSEDSO
+1006,WTSTDI,Initial standing dead C,StandingDeadInitC_pft,StandingDeadInitC_pft,DIST_3D,TWILGT
+1007,WTSTGE,Standing dead element,StandDeadStrutElms_pft,StandDeadStrutElms_pft,TWILGT,PetoleStrutElms_pft
+1008,WTSTGET,Total standing dead C,StandingDeadStrutElms_col,StandingDeadStrutElms_col,TWILGT,THETW_vr
+1009,WTSTKBE,Branch stalk element,StalkStrutElms_brch,StalkStrutElms_brch,StalkStrutElms_pft,SenecStalkStrutElms_brch
+1010,WTSTKE,,ASP_col,ASP_col,StalkStrutElms_pft,HuskStrutElms_pft
+1011,WTSTXBE,Branch stalk structural C,SenecStalkStrutElms_brch,SenecStalkStrutElms_brch,ExtWaterTablet0_col,ExtWaterTable_col
+1012,Wat2GridBySurfRunoff,,ASP_col,ASP_col,HeatXGridBySurfRunoff_2DH,TXGridSurfRunoff_2DH
+1013,WatByPCan,Canopy held water content,WatHeldOnCanopy_col,WatHeldOnCanopy_col,RadSWbyCanopy_pft,RadPARbyCanopy_pft
+1014,WatBySnowRedistribution,,ASP_col,ASP_col,WatSnoByRedist_2DH,RUreaInhibtorConst
+1015,WatFLo2Litr,Net water transfer to surface litter,WatFLo2LitR_col,WatFLo2LitR_col,WatFLo2LitR_col,HeatFLoByWat2LitR_col
+1016,WatFLo2LitrM,Water transfer between soil surface and surface litter,WatFLoLitr2SoilM_col,WatFLoLitr2SoilM_col,WatFLo2LitR_col,WatFLoLitr2SoilM_col
+1017,WatFlowSno2LitRM,,ASP_col,ASP_col,WatFlowSno2LitRM_col,WatFLoLitr2SoilM_col
+1018,WatFlux4ErosionM,"WatFlux4ErosionM, or runoff water flux,",DOM_FloXSurRunoff_2DH,DOM_FloXSurRunoff_2DH,VolMaxSoilMoist4Fire,MaxSoiL4Root_pft
+1019,WaterFlow2MacPM,,ASP_col,ASP_col,WaterFlow2MacPM_3D,WaterFlow2MicPM_3D
+1020,WaterFlow2MicPM,,ASP_col,ASP_col,WaterFlow2MicPM_3D,WaterFlow2MacPM_3D
+1021,WaterFlowMacP,,ASP_col,ASP_col,WaterFlow2MacPM_3D,WaterFlowSoiMacP_3D
+1022,WaterFlowSoiMicP,The flow of water through the micropores in the soil.,VLWatMicPM_vr,VLWatMicPM_vr,WaterFlowSoiMicP_3D,WaterFlowSoiMicPX_3D
+1023,WaterFlowSoiMicPX,Unsaturated water flux,WaterFlowSoiMicPX_3D,WaterFlowSoiMicPX_3D,WaterFlowSoiMicPX_3D,WaterFlowSoiMicP_3D
+1024,WaterTBLSlope,WaterTBLSlope,QDischar_col,QDischar_col,WaterTBLSlope_col,TileWaterTable_col
+1025,WindMesHeight,,ASP_col,ASP_col,WindMesureHeight_col,HighTempLimitSeed_pft
+1026,WindSpeedAtm,Wind speed,WindSpeedAtm_col,WindSpeedAtm_col,WindSpeedAtm_col,StandDeadKCompElms_pft
+1027,XAL1BS,A process in which AlOH (aluminium hydroxide) from the atmosphere,CALOH_vr,CALOH_vr,SYAL1,SHAL1
+1028,XAL2BS,Wet deposition of AlOH2,CAL2Q,CAL2Q,SLA2,SYAL2
+1029,XAL3BS,A process in which AlOH3 (Aluminium hydroxide) from the atmosphere,CALOH_vr,CALOH_vr,SPAL3,SLA2
+1030,XAL4BS,"The process in which Aluminum hydroxide ions (AlOH4) from the atmosphere are dissolved into precipitation, such as rain or snowmelt, then carried to the Earth's surface. It",CAL4Q,CAL4Q,SYAL4,SHAL4
+1031,XALBLS,The process of deposition of aluminum (Al) from the atmosphere onto the earth's surface during precipitation events such as rain or snowfall. It,PrecAtm_col,PrecAtm_col,Litrfall_lnds,SLA2
+1032,XALSBS,Wet deposition of AlSO4,CSOQ,CSOQ,GasHydroSubsLoss_flx_col,SurfGasEmiss_flx_col
+1033,XC0PBS,A process in which CaPO4 (calcium phosphate) from the atmosphere,CC0PQ,CC0PQ,cps,SPCAC
+1034,XC1PBS,A process in which calcium hydrogen phosphate (CHPO4) from the atmosphere,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,SXH1P,cps
+1035,XC2PBS,A process in which CaH2PO4 (calcium dihydrogen phosphate) from the atmosphere,CCAPD_vr,CCAPD_vr,SXH2P,SCO2X
+1036,XC3BLS,A process in which CO3 (carbon trioxide) from the atmosphere,CO2E_col,CO2E_col,CLSX,SL_col
+1037,XCABLS,Wet deposition of Calcium,CCAQ,CCAQ,CLSX,StalkLiveBiomassC_brch
+1038,XCACBS,Wet deposition of CaCO3,CCACQ,CCACQ,SPCAC,CCAMX
+1039,XCAHBS,Wet deposition of CaHCO3,CCAHQ,CCAHQ,SPCAH,SCH4X
+1040,XCAOBS,Wet deposition of CaOH,Gas_WetDeposit_flx_col,Gas_WetDeposit_flx_col,Vmax4RubiscoCarboxy_pft,SCO2X
+1041,XCASBS,,ASP_col,ASP_col,SPCAS,SCOS
+1042,XCHBLS,A process in which CH4 (methane) from the atmosphere,CH4E_col,CH4E_col,CLSX,TSHX_col
+1043,XCHDFG,,ASP_col,ASP_col,GCHX,HydroSufDICFlx_col
+1044,XCHDFS,Surface - atmosphere CH4 dissolution (+ve) - volatilization (-ve),trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,FXSH,SCH4X
+1045,XCHQSS,Snowpack runoff CH4 flux,trcn_FloXSnow_2DH,trcn_FloXSnow_2DH,SCH4X,SCOS
+1046,XCLAER,Total clay erosion,XClay_Eros_2D,XClay_Eros_2D,XER_col,trcs_drainage_flx_col
+1047,XCLBLS,Wet deposition of Cl,Gas_WetDeposit_flx_col,Gas_WetDeposit_flx_col,CLSX,SL_col
+1048,XCOBLS,A process in which CO2 (carbon dioxide) from the atmosphere,CO2E_col,CO2E_col,CLSX,HydroSubsDOCFlx_col
+1049,XCODFG,Soil CO2 dissolution (+ve) - volatilization (-ve),trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,GCOX,HydroSufDOCFlx_col
+1050,XCODFS,Surface - Atmosphere CO2 Dissolution (+ve) - Volatilization (-ve),trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,HydroSufDOCFlx_col,HydroSubsDOCFlx_col
+1051,XCOQSS,Snowpack runoff CO2 flux,trcg_FloXSnow_2DH,trcg_FloXSnow_2DH,CSOQ,SCOS
+1052,XDL,Critical daylength for phenological progress,CriticPhotoPeriod_pft,CriticPhotoPeriod_pft,DTBLD_col,HUDX_col
+1053,XER,Soil detachment or deposition,CER_col,CER_col,XFRX,XER_col
+1054,XF1PBS,Wet deposition of FeHPO4,CF1PQ,CF1PQ,SPF1P1,SXH1P
+1055,XF2PBS,A process in which FeH2PO4 (iron(II) phosphate) from the atmosphere,CF2PQ,CF2PQ,SPF2P2,SXH2P
+1056,XFE1BS,Wet deposition of FeOH,CFE2Q,CFE2Q,SYFE1,SHFE1
+1057,XFE2BS,Wet deposition of FeOH2,CFE2Q,CFE2Q,SYFE2,SHFE2
+1058,XFE3BS,A process in which FeOH3 (iron(III) hydroxide) from the atmosphere,CFEOH_vr,CFEOH_vr,SPFE3,FBS
+1059,XFE4BS,Wet deposition of FeOH4,CFE4Q,CFE4Q,SYFE4,SHFE4
+1060,XFEBLS,Wet deposition of Fe,CFEQ,CFEQ,FBS,LeafElmntRemobFlx_brch
+1061,XFESBS,A process in which FeSO4 (Iron(II) sulfate) from the atmosphere,CFESQ,CFESQ,FBS,SurfGasEmiss_flx_col
+1062,XH0PBS,Wet deposition of PO4,CH0PQ,CH0PQ,SXH2P,SXH1P
+1063,XH1BS,,ASP_col,ASP_col,SXOH1,SXH1P
+1064,XH1PBS,A process in which HPO4 (hydrogen phosphate) from the atmosphere,HPO4_rain_mole_conc_col,HPO4_rain_mole_conc_col,SXH1P,SXOH1
+1065,XH1PS,,ASP_col,ASP_col,SXH1P,SXOH1
+1066,XH2BS,,ASP_col,ASP_col,SXOH2,SXH2P
+1067,XH2PBS,Wet deposition of H2PO4,H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,SXH2P,SXOH2
+1068,XH2PS,,ASP_col,ASP_col,SXH2P,SXOH2
+1069,XH3PBS,The wet deposition of phosphoric acid (H3PO4),H2PO4_rain_mole_conc,H2PO4_rain_mole_conc,SXH2P,SXH1P
+1070,XHCBLS,Wet deposition of HCO3,CHCQ,CHCQ,CLSX,TSHX_col
+1071,XHGBLS,A process in which H2 (hydrogen gas) from the atmosphere,H2GE_col,H2GE_col,HLSG,SH2GX
+1072,XHGDFG,Soil H2 dissolution (+ve) - volatilization (-ve),trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,HGSG,GH4X
+1073,XHGDFS,Surface - Atmosphere H2 dissolution (+ve) - volatilization (-ve),trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,FXSH,SH2GX
+1074,XHVSTE,Ecosystem harvest,EcoHavstElmnt_CumYr_col,EcoHavstElmnt_CumYr_col,XPhaseChangeHeatL_snvr,THETW_vr
+1075,XHYBLS,Wet deposition of H,CHYQ,CHYQ,GasHydroSubsLoss_flx_col,HydroSubsDINFlx_col
+1076,XKABLS,The process by which potassium (K) in the atmosphere,CKA_vr,CKA_vr,StalkLiveBiomassC_brch,ATKS_col
+1077,XKASBS,A process in which KSO4 (potassium sulfate) from the atmosphere,DPKAS,DPKAS,AKSG,SARX
+1078,XKCO2,Km for rubisco carboxylase activity,XKCO2_pft,XKCO2_pft,CO2KI,SCO2X
+1079,XKCO24,Km for PEP carboxylase activity,Km4PEPCarboxy_pft,Km4PEPCarboxy_pft,CO2KI,SCO2X
+1080,XKCO2L,,ASP_col,ASP_col,CO2E_col,NetCO2Flx2Canopy_col
+1081,XKCO2O,,ASP_col,ASP_col,RootO2_Xink_col,CO2KI
+1082,XKO2,Km for Rubisco oxygenase activity,XKO2_pft,XKO2_pft,XKO2_pft,OXKA
+1083,XM1PBS,"The process by which magnesium hydrogen phosphate (MgHPO4), a chemical compound often found in fertilizers and detergents,",CM1PQ,CM1PQ,SXH1P,SPA1P1
+1084,XMGBLS,Wet deposition of Mg,CMGQ,CMGQ,GMSG,trcg_soilMass_beg_col
+1085,XMGCBS,Wet deposition of MgCO3,CMGCQ,CMGCQ,CMGSQ,trcg_snowMass_beg_col
+1086,XMGHBS,Wet deposition of MgHCO3,CMGHQ,CMGHQ,SH2GX,GMSG
+1087,XMGOBS,A process in which MgOH (magnesium hydroxide) from the atmosphere,CMGOQ,CMGOQ,OMEGX,SnowMassBeg_col
+1088,XMGSBS,Wet deposition of MgSO4,CMGSQ,CMGSQ,GMSG,SOSG
+1089,XN2BLS,"The process in which nitrogen oxide (N2O) from the atmosphere dissolves into precipitation, such as rain or snow, and",Z2OE_col,Z2OE_col,SNL2,SN2GX
+1090,XN2DFG,,ASP_col,ASP_col,GN2X,SN2GX
+1091,XN2DFS,The rate at which nitrous oxide (N2O),RN2ONitProd_vr,RN2ONitProd_vr,XSand_Eros_2D,SN2GX
+1092,XN2GS,,ASP_col,ASP_col,SN2GX,GN2X
+1093,XN2QSS,,ASP_col,ASP_col,SN2GX,SN2OX
+1094,XN3BLW,A process in which NH3 (ammonia) from the atmosphere,ZNH3E_col,ZNH3E_col,SNH3X,tNO3_lnd
+1095,XN3DFG,,ASP_col,ASP_col,FXRN,GNOX
+1096,XN3DFS,,ASP_col,ASP_col,SNH3X,XNH3Band_Eros_2D
+1097,XN3QSS,,ASP_col,ASP_col,SNH3X,SnoDens_snvr
+1098,XN4BLW,,ASP_col,ASP_col,WatFlowInSnowM_snvr,TDisolNH4_lnd
+1099,XN4QSS,,ASP_col,ASP_col,SnoDens_snvr,SCH4X
+1100,XNABLS,Wet deposition of Na,CNA_vr,CNA_vr,trcn_AquaADV_Snow2Band_flx,AbvCanopyBndlResist_col
+1101,XNACBS,A process in which NaCO3 (sodium carbonate) from the atmosphere,CNACQ,CNACQ,CNASQ,trcn_AquaADV_Snow2Band_flx
+1102,XNASBS,Wet deposition of NaSO4,CNASQ,CNASQ,ANSG,SARX
+1103,XNBDFG,The soil NH3 dissolution (+ve) - volatilization (-ve) band,trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,FXRN,GNOX
+1104,XNBDFS,Surface - atmosphere NH3 dissolution (+ve) - volatilization (-ve) band,trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,FBS,XNH4Band_Eros_2D
+1105,XNGBLS,,ASP_col,ASP_col,SN2GX,TGasN_lnd
+1106,XNGDFG,Soil N2 dissolution (+ve) - volatilization (-ve),trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,GNOX,GN2X
+1107,XNGDFS,Surface - atmosphere N2 dissolution/volatilization,Z2GE_col,Z2GE_col,SN2GX,SurfGas_lnd
+1108,XNGQSS,,ASP_col,ASP_col,SN2GX,SOSG
+1109,XNH3EB,,ASP_col,ASP_col,SNH3X,XNH3Band_Eros_2D
+1110,XNH3ER,,ASP_col,ASP_col,RNH3oxi_vr,SNH3X
+1111,XNH4B,,ASP_col,ASP_col,GH4X,EH4X
+1112,XNH4EB,Total NH4 fertilizer erosion band,XNH4Band_Eros_2D,XNH4Band_Eros_2D,EH4X,XNH4Band_Eros_2D
+1113,XNH4ER,,ASP_col,ASP_col,EH4X,RNH4DmndSoilHeter_vr
+1114,XNH4S,,ASP_col,ASP_col,SCH4X,SNH3X
+1115,XNHUEB,Total urea fertilizer erosion band,XUreaBand_Eros_2D,XUreaBand_Eros_2D,NodeNumberAtAnthesis_brch,BranchNumber_brch
+1116,XNHUER,,ASP_col,ASP_col,RN2ODmndReduxHeter_vr,RN2ORedux_vr
+1117,XNO2B,,ASP_col,ASP_col,SN2OX,XNO3Band_Eros_2D
+1118,XNO2S,Total NO2 exchange,eQNO2toOxy,eQNO2toOxy,SN2OX,SXOH2
+1119,XNO3B,,ASP_col,ASP_col,XNO3Band_Eros_2D,eQNO3toOxy
+1120,XNO3EB,,ASP_col,ASP_col,ENOX,XNO3Band_Eros_2D
+1121,XNO3ER,Total NO3 fertilizer erosion non-band,XNO3Soil_Eros_2D,XNO3Soil_Eros_2D,ENOX,RNH3oxi_vr
+1122,XNO3S,,ASP_col,ASP_col,SN2OX,SNH3X
+1123,XNOBLW,Wet deposition of NO3,NO3_rain_mole_conc,NO3_rain_mole_conc,trcn_FloXSnow_2DH,nsnol_col
+1124,XNOQSS,,ASP_col,ASP_col,SN2OX,QH2OLoss_lnds
+1125,XOAFHS,Acetate flux in macropores,WaterFlow2MacPM_3D,WaterFlow2MacPM_3D,FXSH,SXOH2
+1126,XOAFLS,Aqueous acetate flux,OASG,OASG,GasHydroLoss_flx_col,GasHydroSurfLoss_flx_col
+1127,XOAFXS,Total acetate micropore-macropore transfer,trcs_Mac2MicPore_flx_vr,trcs_Mac2MicPore_flx_vr,SOXYX,XFRX
+1128,XOAQRS,Surface runoff acetate flux,DOM_FloXSurRunoff_2DH,DOM_FloXSurRunoff_2DH,SARX,trcg_Root_gas2aqu_flx_vr
+1129,XOCFHS,DOC flux macropore,DOM_MicpTransp_3D,DOM_MicpTransp_3D,FXSH,TSHX_col
+1130,XOCFLS,DOC flux micropore,DOM_MicpTransp_3D,DOM_MicpTransp_3D,FOSCZL,GasHydroLoss_cumflx_col
+1131,XOCFXS,Total DOC micropore-macropore transfer,DOM_Mac2MicPore_flx_vr,DOM_Mac2MicPore_flx_vr,SOXYX,SCO2X
+1132,XOCQRS,Surface runoff DOC flux,DOM_FloXSurRunoff_2DH,DOM_FloXSurRunoff_2DH,CSOQ,SCO2X
+1133,XOHBLS,Wet deposition of OH,COHQ,COHQ,GasHydroSubsLoss_flx_col,TSHX_col
+1134,XONFHS,"The flux of Dissolved Organic Nitrogen (DON) through macropores in the soil. Macropores, such as wormholes, root channels and cracks, are pathways for the rapid vertical transport of water and solutes, like DON, through the soil profile.",VLWatMacP_vr,VLWatMacP_vr,FXSH,trcn_FloXSnow_2DH
+1135,XONFLS,The amount of dissolved organic nitrogen (DON) that moves through the soil via micropores.,VLWatMicPM_vr,VLWatMicPM_vr,SnoXfer2SnoLay_snvr,nsnol_col
+1136,XONFXS,Total DON micropore-macropore transfer,DOM_Mac2MicPore_flx_vr,DOM_Mac2MicPore_flx_vr,SOXYX,SN2OX
+1137,XONQRS,,ASP_col,ASP_col,SnoXfer2SnoLay_snvr,SN2OX
+1138,XOPFHS,DOP flux macropore,DOM_MicpTransp_3D,DOM_MicpTransp_3D,FXSH,SPFEO
+1139,XOPFLS,Dissolved organic phosphorus (DOP) flux in micropores,DOM_MicP_vr,DOM_MicP_vr,GasHydroSurfLoss_flx_col,GasHydroLoss_flx_col
+1140,XOPFXS,Total DOP micropore-macropore transfer,DOM_Mac2MicPore_flx_vr,DOM_Mac2MicPore_flx_vr,SOXYX,XFRX
+1141,XOPQRS,Surface runoff DOP flux,DOM_FloXSurRunoff_2DH,DOM_FloXSurRunoff_2DH,POROQ,POROS_vr
+1142,XOQAS,Net microbial acetate flux,RAcetateUptkHeter_vr,RAcetateUptkHeter_vr,trcg_AquaADV_Snow2Soil_flx,SOXYX
+1143,XOQCS,Net Microbial DOC flux,RDOCUptkHeter_vr,RDOCUptkHeter_vr,CSOQ,SCO2X
+1144,XOQNS,,ASP_col,ASP_col,SN2OX,SnoXfer2SnoLay_snvr
+1145,XOQPS,Net microbial DOP flux,RDOCUptkHeter_vr,RDOCUptkHeter_vr,SPPO4,SOXYX
+1146,XOXBLS,A process in which O2 (oxygen) from the atmosphere,OXYE_col,OXYE_col,SOXYX,CLSX
+1147,XOXDFG,,ASP_col,ASP_col,XFRX,GO2X
+1148,XOXDFS,Surface-atmosphere O2 dissolution (+ve) - volatilization (-ve),trcg_DisolEvap_Atm2Litr_flx,trcg_DisolEvap_Atm2Litr_flx,SOXYX,XFRX
+1149,XOXQSS,,ASP_col,ASP_col,SOXYX,SXOH2
+1150,XP1QSS,Snowpack runoff HPO4 flux,trcn_FloXSnow_2DH,trcn_FloXSnow_2DH,SXH1P,PSIPS
+1151,XP4QSS,Snowpack runoff PO4 flux,trcn_FloXSnow_2DH,trcn_FloXSnow_2DH,PSIPS,SPCAS
+1152,XPPD,Difference between the current and critical daylengths used to calculate phenological progress.,PhotoPeriodSens_pft,PhotoPeriodSens_pft,PPX_pft,DPH1P
+1153,XRLA,,ASP_col,ASP_col,ARSL,SARX
+1154,XRNI,Rate of node initiation,RefNodeInitRate_pft,RefNodeInitRate_pft,RNFNI,RNH3oxi_vr
+1155,XSANER,Total sand erosion,XSand_Eros_2D,XSand_Eros_2D,HeatXfer2SnoLay_snvr,SARX
+1156,XSILER,Total silt erosion,XSilt_Eros_2D,XSilt_Eros_2D,XSilt_Eros_2D,XUreaSoil_Eros_2D
+1157,XSOBLS,Wet deposition of SO4 (sulfate),CSOQ,CSOQ,GasHydroSubsLoss_flx_col,GasHydroLoss_flx_col
+1158,XTLI,Number of nodes in a seed,ShootNodeNumAtPlanting_pft,ShootNodeNumAtPlanting_pft,TLitrIceFlxThaw_col,ITILL1_col
+1159,Z2GE,,ASP_col,ASP_col,Z2GE_col,Z2SG
+1160,Z2OE,Atmospheric N2O concentration,Z2OE_col,Z2OE_col,Z2OE_col,Z2GE_col
+1161,Z2SGL,Gaseous N2O diffusivity,Z2SG,Z2SG,ZLSG,Z2SG
+1162,ZDRAIN,Total N drainage below root zone,ZDRAIN_col,ZDRAIN_col,ZDRAIN_col,RAIN
+1163,ZESNC,,ASP_col,ASP_col,doSenescence_brch,DENSICE
+1164,ZHSGL,Aqueous NH4 diffusivity,ZNSG,ZNSG,ZLSG,ZHSG
+1165,ZLSGL,Aqueous N2 diffusivity,ZLSG,ZLSG,ZLSG,CLSG
+1166,ZNH3E,,ASP_col,ASP_col,ZNH3E_col,ECNH
+1167,ZNOON,Solar noon,SolarNoonHour_col,SolarNoonHour_col,ZOMN,NO3_rain_mole_conc
+1168,ZNPP,Total net primary productivity (ZNPP),NetPrimProduct_pft,NetPrimProduct_pft,PlantinDepz_pft,PPI_pft
+1169,ZNSGL,Aqueous NH3 diffusivity,ZNSG,ZNSG,ZLSG,ZNSG
+1170,ZOSGL,Aqueous NO3 diffusivity,ZOSG,ZOSG,OLSG,ZLSG
+1171,ZTYP,Thermal adaptation zones,iPlantThermoAdaptZone_pft,iPlantThermoAdaptZone_pft,IYTYP,TKCanopy_pft
+1172,ZTYPI,Initial plant thermal adaptation zone,PlantInitThermoAdaptZone,PlantInitThermoAdaptZone,IYTYP,TZIN
+1173,ZVSGL,Aqueous N2O diffusivity,ZVSG,ZVSG,ZLSG,ZVSG
+1174,ZeroPlanDisp,,ASP_col,ASP_col,ZERO4PlantDisplace_col,RootLenDensPerPlant_pvr
+1175,cumSedErosion,Cumulative sediment erosion,cumSed_Eros_2D,cumSed_Eros_2D,MoistSensDecomp_vr,OMBioResdu_Eros_2D
+1176,degreefromhorizontal,,ASP_col,ASP_col,KHiestGroLeafNode_brch,KLowestGroLeafNode_brch
+1177,fTgrowCanP,Canopy temperature growth function (fTgrowCanP),fTCanopyGroth_pft,fTCanopyGroth_pft,canopy_growth_pft,ClumpFactorNow_pft
+1178,fTgrowRootP,Root layer temperature growth function,fTgrowRootP_vr,fTgrowRootP_vr,fTgrowRootP_vr,RootPoreTortu4Gas_pft
+1179,pftPlantPopulation,,ASP_col,ASP_col,PlantPopulation_pft,iPlantPhenolPattern_pft
